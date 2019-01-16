@@ -1,0 +1,173 @@
+Package: com.tqm-mos.enlightened
+Name: Enlightened
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: 
+Description: Đã được Mos buil lại
+Maintainer: QM <devmos388373@gmail.com>
+Author: Mos 
+Section: Themes
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.enlightened
+Filename: ./debs/com.tqm-mos.enlightened_1.0_iphoneos-arm.deb
+Size: 4403538
+MD5sum: 25b1aaeeefabe8ed5d66e1c3190be24b
+
+Package: com.tqm-mos.goldenpro
+Name: Golden Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Theme mang giao diện vàng làm chủ đạo
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.goldenpro
+Author: Mos
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Depends: 
+Filename: ./debs/com.tqm-mos.goldenpro_1.0_iphoneos-arm.deb
+Size: 96023894
+MD5sum: c35f15813a8687067d42784c31bb1a4d
+
+Package: com.tqm-mos.profun
+Name: ProFun
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: 
+Description: Bộ themes được buil lại lạ và độc với những icon màu sắc vui nhộn
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.profun
+Author: Mos <devmos388373@gmail.com>
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.profun_1.0_iphoneos-arm.deb
+Size: 6488504
+MD5sum: 9181e8a2f98ccf1f9c0d03f9041d2626
+
+Package: com.tqm-mos.proking
+Version: 1.4
+Section: Themes
+Maintainer: QM
+Depends: 
+Architecture: iphoneos-arm
+Description: Một bộ themes khá lạ mắt icon mang chủ đề bên trong của mỗi app
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.proking
+Name: ProKing
+Author: Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.proking_1.4_iphoneos-arm.deb
+Size: 10966596
+MD5sum: cdf7388756f7d2736702af1c048c5520
+
+Package: com.tqm-mos.prokingmask
+Version: 1.0
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Depends: com.tqm-mos.proking
+Description: Bộ mask kèm theo Bộ chủ đề ProKing
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.prokingmask
+Name: ProKing Mask
+Author: Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.prokingmask_1.0_iphoneos-arm.deb
+Size: 42028
+MD5sum: aa181861cacf6a8ba3ae2e2b5791aee6
+
+Package: com.tqm-mos.puradark
+Version: 1.0
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Description: Bộ chủ đề được Mos buil lại Pura Dark
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.puradark
+Name: Pura Dark
+Author: Mos <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.puradark_1.0_iphoneos-arm.deb
+Size: 10813832
+MD5sum: 32f85220f44a2044892dcd601255c076
+
+Package: com.tqm-mos.rixrax
+Name: Rixrax Pro
+Version: 1.0
+Architecture: iphoneos-arm
+Description: The stock feel, with more flavor.
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.rixrax
+Author: Mos
+Section: Themes
+Maintainer: QM
+Depends: 
+Filename: ./debs/com.tqm-mos.rixrax_1.0_iphoneos-arm.deb
+Size: 23932004
+MD5sum: 1aaba34424fcbbe48ad549f34a21e746
+
+Package: com.tqm-mos.s8theme
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: QM
+Section: Themes
+Description: Theme Galaxy S8 Cho iPhone và iPad.
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.s8theme
+Depends: 
+Author: Mos
+Name: Galaxy S8
+Filename: ./debs/com.tqm-mos.s8theme_1.0.4_iphoneos-arm.deb
+Size: 11901862
+MD5sum: 817232526fe8faea5c53bee3a09f18eb
+
+Package: com.tqm-mos.swhitexipro
+Name: SwhiteXI Pro
+Version: 1.2
+Architecture: iphoneos-arm
+Description: The stock feel, with more flavor.
+Depiction: http://tqm-mos.github.io/description.html?id=com.tqm-mos.swhitexipro
+Author: Mos
+Section: Themes
+Maintainer: QM
+Depends: 
+Filename: ./debs/com.tqm-mos.swhitexipro_1.2_iphoneos-arm.deb
+Size: 10126040
+MD5sum: 34094cae6fd1536fc5db3a78c7c82ace
+
+Package: com.tqm-mos.whiskey
+Name: Whiskey
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: một Theme đẹp. Nó có hơn 320 biểu tượng với Nightmode
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.whiskey
+Author: Mos <devmos388373@gmail.com>
+Section: Themes
+Depends: firmware (>=9.0)
+Maintainer: Qm
+Filename: ./debs/com.tqm-mos.whiskey_1.3.2_iphoneos-arm.deb
+Size: 85852480
+MD5sum: ca0f0168ad8bee6cdb363dd97967cd6c
+
+Package: com.tqm-mos.whitelagoon
+Name: White Lagoon
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Đó là một chủ đề màu trắng đẹp với hiệu ứng chrome nhẹ.
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.whitelagoon
+Author: Mos
+Section: Themes
+Depends: 
+Maintainer: QM <devmos388373@gmail.com>
+Filename: ./debs/com.tqm-mos.whitelagoon_1.0_iphoneos-arm.deb
+Size: 32078358
+MD5sum: 183fbeb15ab2d4c1ebf26409b75e6510
+
+Package: com.tqm-mos.youmy
+Name: Youmy
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Bộ chủ đề có rất nhiều mask màu sắc khác nhau
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.youmy
+Author: Mos <anhminh311105@gmail.com>
+Section: Themes
+Depends: 
+Maintainer: Tqm-minh <anhminh311105@gmail.com>
+Filename: ./debs/com.tqm-mos.youmy_1.1_iphoneos-arm.deb
+Size: 7353176
+MD5sum: f34d2416b9134aee531e6ad42fcbaf4e
+
+
+
+
+
+
+
