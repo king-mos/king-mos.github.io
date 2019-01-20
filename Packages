@@ -165,7 +165,7 @@ Filename: ./debs/com.tqm-mos.youmy_1.1_iphoneos-arm.deb
 Size: 7353176
 MD5sum: f34d2416b9134aee531e6ad42fcbaf4e
 
-Package: com.tqm-mos.berry
+Package: com.tqm-mos.berryver
 Version: 1.0
 Section: Themes
 Maintainer: QM
@@ -174,9 +174,9 @@ Name: Berry Theme
 Author: Mos
 Description: Themes neww
 Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.berry
-Filename: ./debs/com.tqm-mos.berry_1.0_iphoneos-arm.deb
-Size: 7554350
-MD5sum: 0aeeff002a0f3a0a3f00e2c93768c395
+Filename: ./debs/com.tqm-mos.berryver_1.0_iphoneos-arm.deb
+Size: 7554356
+MD5sum: 06bc4596b2cc30a313a5e78549ac350a
 
 Package: com.tqm-mos.lotusdark
 Name: Lotus Dark
