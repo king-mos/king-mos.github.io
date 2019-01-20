@@ -165,6 +165,71 @@ Filename: ./debs/com.tqm-mos.youmy_1.1_iphoneos-arm.deb
 Size: 7353176
 MD5sum: f34d2416b9134aee531e6ad42fcbaf4e
 
+Package: com.tqm-mos.berry
+Version: 1.0
+Section: Themes
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Berry Theme
+Author: Mos
+Description: Themes neww
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.berry
+Filename: ./debs/com.tqm-mos.berry_1.0_iphoneos-arm.deb
+Size: 7554350
+MD5sum: 0aeeff002a0f3a0a3f00e2c93768c395
+
+Package: com.tqm-mos.lotusdark
+Name: Lotus Dark
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A dark alternative to Lotus
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.lotusdark
+Maintainer: QM <devmos388373@gmail.com>
+Author: Mos 
+Section: Themes
+Filename: ./debs/com.tqm-mos.lotusdark_1.0_iphoneos-arm.deb
+Size: 15068224
+MD5sum: 7a81089b13cc150e466eb004f6e280a1
+
+Package: com.tqm-mos.recut
+Version: 1.0
+Section: Themes
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: ReCut
+Author: Mos
+Description: Themes neww
+ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.recut
+Filename: ./debs/com.tqm-mos.recut_1.0_iphoneos-arm.deb
+Size: 3904510
+MD5sum: accc665b968b7223f88595a7a8920805
+
+Package: com.tqm-mos.tabuk
+Version: 1.0
+Section: Themes
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: Tabuk
+Author: Mos
+Description: Themes neww
+ Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.tabuk
+Filename: ./debs/com.tqm-mos.tabuk_1.0_iphoneos-arm.deb
+Size: 7426382
+MD5sum: 59dd07f63abc3baf900728d49a550628
+
+Package: com.tqm-mos.whitxl
+Version: 1.0
+Section: Themes
+Maintainer: QM
+Architecture: iphoneos-arm
+Name: whitxl
+Author: Mos
+Description: Themes neww
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.whitxl
+Filename: ./debs/com.tqm-mos.whitxl_1.0_iphoneos-arm.deb
+Size: 3543094
+MD5sum: 2ec59ab03b9f914902568ede0b8a97a8
+
 
 
 
