@@ -230,6 +230,19 @@ Filename: ./debs/com.tqm-mos.whitxl_1.0_iphoneos-arm.deb
 Size: 3543094
 MD5sum: 2ec59ab03b9f914902568ede0b8a97a8
 
+Package: com.tqm-mos.Berry
+Version: 1.1
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Name: Berry Pro
+Author: Mos
+Description: New themea
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.berrypro
+Filename: ./debs/com.tqm-mos.Berry_1.1_iphoneos-arm.deb
+Size: 10773112
+MD5sum: 29da55dce10691ece77141ca5403148f
+
 
 
 
