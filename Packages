@@ -199,10 +199,10 @@ Architecture: iphoneos-arm
 Name: ReCut
 Author: Mos
 Description: Themes neww
- Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.recut
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.recut
 Filename: ./debs/com.tqm-mos.recut_1.0_iphoneos-arm.deb
-Size: 3904510
-MD5sum: accc665b968b7223f88595a7a8920805
+Size: 3904488
+MD5sum: f3651ef95cfec906c2405b5ca841d8ba
 
 Package: com.tqm-mos.tabuk
 Version: 1.0
@@ -212,10 +212,10 @@ Architecture: iphoneos-arm
 Name: Tabuk
 Author: Mos
 Description: Themes neww
- Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.tabuk
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.tabuk
 Filename: ./debs/com.tqm-mos.tabuk_1.0_iphoneos-arm.deb
-Size: 7426382
-MD5sum: 59dd07f63abc3baf900728d49a550628
+Size: 7426376
+MD5sum: 94ce6f4f8fadd9c11fe1b398e6497cfd
 
 Package: com.tqm-mos.whitxl
 Version: 1.0
