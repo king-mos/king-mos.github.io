@@ -243,6 +243,32 @@ Filename: ./debs/com.tqm-mos.Berry_1.1_iphoneos-arm.deb
 Size: 10773112
 MD5sum: 29da55dce10691ece77141ca5403148f
 
+Package: com.tqm-mos.kardo
+Version: 1.0
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Name: Kardo
+Author: Mos
+Description: New themes
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.kardo
+Filename: ./debs/com.tqm-mos.kardo_1.0_iphoneos-arm.deb
+Size: 999308
+MD5sum: 5bba2cc489f47a09a0d48798efad229a
+
+Package: com.tqm-mos.cartoon
+Version: 1.0
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Name: Cartoon
+Author: Mos
+Description: Một bộ themes khá lạ giống hoạt hình
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.cartoon
+Filename: ./debs/com.tqm-mos.cartoon_1.0_iphoneos-arm.deb
+Size: 1337802
+MD5sum: e3b97834fda8ba6fa1001b9824a2e835
+
 
 
 
