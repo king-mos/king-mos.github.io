@@ -269,6 +269,19 @@ Filename: ./debs/com.tqm-mos.cartoon_1.0_iphoneos-arm.deb
 Size: 1337802
 MD5sum: e3b97834fda8ba6fa1001b9824a2e835
 
+Package: com.tqm-mos.whitelove
+Name: White Love
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Một bộ themes với chủ đạo nền icon là màu trắng
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.whitelove
+Author: Mos
+Maintainer: QM <devmos388373@gmail.com>
+Section: Themes
+Filename: ./debs/com.tqm-mos.whitelove_1.0_iphoneos-arm.deb
+Size: 2908948
+MD5sum: 63a7bdcd4e656bd177df11cbf4efaa03
+
 
 
 
