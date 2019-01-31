@@ -282,6 +282,19 @@ Filename: ./debs/com.tqm-mos.whitelove_1.0_iphoneos-arm.deb
 Size: 2908948
 MD5sum: 63a7bdcd4e656bd177df11cbf4efaa03
 
+Package: com.tqm-mos.stackspro
+Version: 1.0
+Section: Themes
+Maintainer: QM <devmos388373@gmail.com>
+Architecture: iphoneos-arm
+Name: StacksPro
+Author: Mos
+Description: Một bộ themes khá lạ giống hoạt hình
+Depiction: https://tqm-mos.github.io/description.html?id=com.tqm-mos.stackspro
+Filename: ./debs/com.tqm-mos.stackspro_1.0_iphoneos-arm.deb
+Size: 7531536
+MD5sum: 6e7fb7a07b855dcdf40ff6de901e013e
+
 
 
 
