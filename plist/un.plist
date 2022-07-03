@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.undecimus801</string>
+				<string>com.tqm.undecimus800</string>
 				<key>bundle-version</key>
-				<string>8.0.1</string>
+				<string>8.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>Unc0ver TQM v8.0.1</string>
+				<string>Unc0ver TQM v8.0.0</string>
 			</dict>
 		</dict>
 	</array>
