@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Kí ipa IOS - TQM-Sign by Trần Quang Minh</title>
 <meta name="Keywords" content="Công cụ chữ ký IPA của Apple, công cụ chữ ký doanh nghiệp IOS, chữ ký lại miễn phí APP để mở khóa, hệ thống chữ ký phiên bản windows, công cụ chữ ký phiên bản mac, nền tảng win / mac chữ ký trực tuyến bằng một cú nhấp chuột, ký ios, trình ký ipa, trình ký ứng dụng"/>
-<meta name="description" content="ios app signer,apple ipa signer tool,ios developer enterprise certificate sign,app free resign,Windows platform signature,mac platform xcode signature,iphone signer without jailbreak"/>
+<meta name="description" content="Trình ký ứng dụng ios, công cụ trình ký apple ipa, ký chứng chỉ doanh nghiệp dành cho nhà phát triển ios, từ chức ứng dụng miễn phí, chữ ký nền tảng Windows, chữ ký xcode nền tảng mac, trình ký trên iphone không cần bẻ khóa"/>
 
     <script type="text/javascript" src="js/vue.min.js"></script>
     <script type="text/javascript" src="js/axios.min.js"></script>
@@ -89,24 +89,24 @@
 
                             <div class="row mb-3">
                                 <div class="col-sm-6">
-                                    <input type="text" v-model="identifier" ref="identifier" placeholder="Nhập mã nhận dạng gói mới" class="form-control" id="identifier">
+                                    <input type="text" v-model="identifier" ref="identifier" placeholder="Nhập bundle id tuỳ chỉnh" class="form-control" id="identifier">
                                 </div>
 
                                 <div class="col-sm-6">
-                                    <input type="text" v-model="name" ref="name" placeholder="Nhập tên gói mới" class="form-control" id="name">
+                                    <input type="text" v-model="name" ref="name" placeholder="Nhập tên tuỳ chỉnh" class="form-control" id="name">
                                 </div>
                             </div>
 
                             <div class="row mb-3">
                                 <div class="col-sm-6">
                                     <label class="form-control">
-                                        <span>Xóa thư viện động</span>
+                                        <span>Xóa dylib hiện có</span>
                                         <div style="display: inline-block; float: right"><input type="radio" name="radio" value="1" v-model="unlockValue"> Có</div>
                                     </label>
                                 </div>
                                 <div class="col-sm-6">
                                     <label class="form-control">
-                                        <span>Xóa thư viện động</span>
+                                        <span>Xóa dylib hiện có</span>
                                         <div style="display: inline-block; float: right"><input type="radio" name="radio" value="0" v-model="unlockValue"> Không</div>
                                     </label>
                                 </div>
@@ -143,13 +143,13 @@
                                     <div id="qrcode" style="width:100px; height:100px; margin-top:15px;"></div>
                                 </div>
                                 <div class="col-sm-8">
-                                    <h6>Sao chép và;  gửi liên kết đến người thử nghiệm của bạn</h6>
+                                    <h6>Sao chép và gửi liên kết bên dưới !</h6>
                                     <a :href="download"
                                        target="_self" class="d-block mx-auto">{{download}}</a>
                                     <div style="margin-top: 48px;"><a :href="download_ipa">Tải xuống IPA</a></div>
                                 </div>
                             </div>
-                            <button type="button" class="btn mt-3 btn-primary btn-block" @click="index">Bắt đầu lại</button>
+                            <button type="button" class="btn mt-3 btn-primary btn-block" @click="index">Ký lại !</button>
                         </div>
 
                     </div>
@@ -177,7 +177,7 @@
                 pwdText: 'Nhập mật khẩu .p12',
                 mobCss: 'is-invalid',
                 mobText: 'Chọn một tệp .mobileprovision hoặc thả nó vào đây ...',
-                download: '',
+                download: 'Vui lòng ấn vào liên kết này !',
                 download_ipa: '',
                 ipa: '',
                 p12: '',
