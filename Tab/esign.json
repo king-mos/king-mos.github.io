@@ -1,0 +1,1077 @@
+{
+    "name": "TQM - Store",
+    "identifier": "https://tqm-ipa.github.io",
+    "sourceURL": "https://tqm-ipa.github.io/esign.json",
+    "apps": [
+        {
+            "isLanZouCloud": 0,
+            "name": "GBox",
+            "version": "3.7.3",
+            "iconURL": "https://tqm-ipa.github.io/js/img/gbox.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/GBox-TQM.ipa",
+            "versionDescription": "Store Sign For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "ESign",
+            "version": "4.7.3",
+            "iconURL": "https://tqm-ipa.github.io/js/img/esign.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Esign-TQM.ipa",
+            "versionDescription": "Store Sign For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Scarlet",
+            "version": "1.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/scarlet.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Scarlet-TQM.ipa",
+            "versionDescription": "Store Sign For ios13 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Magic Sign",
+            "version": "5.1.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/magicsign.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/MagicSign-TQM.ipa",
+            "versionDescription": "Store Sign For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "ZSign",
+            "version": "7.2.8",
+            "iconURL": "https://tqm-ipa.github.io/js/img/zsign.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Zsign-TQM.ipa",
+            "versionDescription": "Store Sign For ios12 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "AppCake",
+            "version": "7.2.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/appcake.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/AppCake-TQM.ipa",
+            "versionDescription": "Store Apps For ios13 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Messenger Lite",
+            "version": "381.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/messlite.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/messegen-TQM.ipa",
+            "versionDescription": "Messenger Lite For ios9-14.8.1 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Unc0ver 8.0.2",
+            "version": "8.0.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/unc0ver802-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Unc0ver 8.0.1",
+            "version": "8.0.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/unc0ver801-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Unc0ver 8.0.0",
+            "version": "8.0.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/unc0ver800-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Unc0ver 7.0.2",
+            "version": "7.0.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/unc0ver702-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Unc0ver 6.2.0",
+            "version": "6.2.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/unc0ver620-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Unc0ver 6.1.2",
+            "version": "6.1.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/unc0ver612-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Unc0ver 6.0.0",
+            "version": "6.0.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/unc0ver600-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Unc0ver 5.3.1",
+            "version": "5.3.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/unc0ver531-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Taurine",
+            "version": "1.1.6",
+            "iconURL": "https://tqm-ipa.github.io/js/img/ta.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Taurine-TQM.ipa",
+            "versionDescription": "jailbreak For ios14.0-14.3 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "XinaA15",
+            "version": "1.1.5",
+            "iconURL": "https://tqm-ipa.github.io/js/img/xina.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/XinaA15-TQM.ipa",
+            "versionDescription": "jailbreak For ios15.0-15.1.1 | A12 - A15M1"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Th0r",
+            "version": "2.9.6",
+            "iconURL": "https://tqm-ipa.github.io/js/img/thor.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Th0r-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-11.4.1 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Th0r4",
+            "version": "1.4.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/th0r.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Th0r4-TQM.ipa",
+            "versionDescription": "jailbreak For ios13.0-13.7 | A9-A13"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Th0r14",
+            "version": "4.1.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/th0r.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Th0r14-TQM.ipa",
+            "versionDescription": "jailbreak For ios14.0-14.3 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Odyssey",
+            "version": "1.4.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/ody.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Odyssey-TQM.ipa",
+            "versionDescription": "jailbreak For ios13.0-13.7 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Chimera",
+            "version": "1.6.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/chimera.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/chimera-TQM.ipa",
+            "versionDescription": "jailbreak For ios12.2-12.5.6 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Chimera",
+            "version": "1.6.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/chimera.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/chimera12-TQM.ipa",
+            "versionDescription": "jailbreak For ios12.0-12.1.4 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Freya",
+            "version": "1.2.7",
+            "iconURL": "https://tqm-ipa.github.io/js/img/freya.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Freya-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-12.5.6 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Electra",
+            "version": "2.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/electra.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Electra-TQM.ipa",
+            "versionDescription": "jailbreak For ios11.0-11.4.1 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "DoubleH3lix",
+            "version": "RC8",
+            "iconURL": "https://tqm-ipa.github.io/js/img/doubleH3lix.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/doubleH3lix-TQM.ipa",
+            "versionDescription": "jailbreak For ios10.0-10.3.3| 64bit"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "H3lix",
+            "version": "RC6",
+            "iconURL": "https://tqm-ipa.github.io/js/img/h3lix.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/h3lix-TQM.ipa",
+            "versionDescription": "jailbreak For ios10.0-10.3.4 | 32bit"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Meridian",
+            "version": "1.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/Meridian.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Meridian-TQM.ipa",
+            "versionDescription": "jailbreak For ios10.0-10.3.3 | 64bit"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Yalu102",
+            "version": "0.7",
+            "iconURL": "https://tqm-ipa.github.io/js/img/yalu102.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/yalu102-TQM.ipa",
+            "versionDescription": "jailbreak For ios10.0-10.2 | 64bit"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "My Fonts",
+            "version": "1.10.6",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dangtai.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Fonts-TQM.ipa",
+            "versionDescription": "Fonts For ios14.0-16.1.2 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "My Fonts 2",
+            "version": "1.8.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dangtai.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Fonts2-TQM.ipa",
+            "versionDescription": "Fonts For ios10.0-16.1.2 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "ScreenshotX",
+            "version": "1.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/ScreenshotX.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/ScreenshotX-TQM.ipa",
+            "versionDescription": "ScreenshotX For ios9.3 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Facebook Lite",
+            "version": "200.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/lite.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/FaceLite-TQM.ipa",
+            "versionDescription": "Facebook Lite For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Facebook v82",
+            "version": "82.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/fb82.png",
+            "downloadURL": "https://archive.org/download/facebook-82-tqm/Facebook82-TQM.ipa",
+            "versionDescription": "Facebook v82 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Facebook 2",
+            "version": "390.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/fb.png",
+            "downloadURL": "https://archive.org/download/facebook-2-tqm/Facebook2-TQM.ipa",
+            "versionDescription": "Facebook 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Facebook 3",
+            "version": "390.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/fb.png",
+            "downloadURL": "https://archive.org/download/facebook-tqm/Facebook-TQM.ipa",
+            "versionDescription": "Facebook 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Facebook 4",
+            "version": "390.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/fb.png",
+            "downloadURL": "https://archive.org/download/facebook-4_20220823/Facebook4.ipa",
+            "versionDescription": "Facebook 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Facebook 5",
+            "version": "390.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/fb.png",
+            "downloadURL": "https://archive.org/download/facebook-5_202208/Facebook5.ipa",
+            "versionDescription": "Facebook 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Facebook 6",
+            "version": "390.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/fb.png",
+            "downloadURL": "https://archive.org/download/facebook-6_202208/Facebook6.ipa",
+            "versionDescription": "Facebook 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Messenger 2",
+            "version": "311.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/mes.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Messenger2-TQM.ipa",
+            "versionDescription": "Messenger 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Messenger 3",
+            "version": "311.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/mes.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Messenger3.ipa",
+            "versionDescription": "Messenger 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Messenger 4",
+            "version": "311.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/mes.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Messenger4.ipa",
+            "versionDescription": "Messenger 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Messenger 5",
+            "version": "311.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/mes.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Messenger5.ipa",
+            "versionDescription": "Messenger 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Messenger 6",
+            "version": "311.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/mes.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Messenger6.ipa",
+            "versionDescription": "Messenger 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Zalo 2",
+            "version": "221001.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "downloadURL": "https://archive.org/download/zalo-2-tqm/Zalo2-TQM.ipa",
+            "versionDescription": "Zalo 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Zalo 3",
+            "version": "221001.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "downloadURL": "https://archive.org/download/zalo-3/Zalo3.ipa",
+            "versionDescription": "Zalo 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Zalo 4",
+            "version": "221001.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "downloadURL": "https://archive.org/download/zalo-4/Zalo4.ipa",
+            "versionDescription": "Zalo 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Zalo 5",
+            "version": "221001.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "downloadURL": "https://archive.org/download/zalo-5/Zalo5.ipa",
+            "versionDescription": "Zalo 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Zalo 6",
+            "version": "221001.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "downloadURL": "https://archive.org/download/zalo-6/Zalo6.ipa",
+            "versionDescription": "Zalo 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WhatsApp 2",
+            "version": "22.20.75",
+            "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/WhatsApp-TQM.ipa",
+            "versionDescription": "WhatsApp 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WhatsApp 3",
+            "version": "22.20.75",
+            "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/WhatsAppTQM3.ipa",
+            "versionDescription": "WhatsApp 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WhatsApp 4",
+            "version": "22.20.75",
+            "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/WhatsAppTQM4.ipa",
+            "versionDescription": "WhatsApp 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WhatsApp 5",
+            "version": "22.20.75",
+            "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/WhatsAppTQM5.ipa",
+            "versionDescription": "WhatsApp 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WhatsApp 6",
+            "version": "22.20.75",
+            "iconURL": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/WhatsAppTQM6.ipa",
+            "versionDescription": "WhatsApp 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 2",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-2/WeChatTQM2.ipa",
+            "versionDescription": "WeChat 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 3",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-3/WeChatTQM3.ipa",
+            "versionDescription": "WeChat 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 4",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-4/WeChatTQM4.ipa",
+            "versionDescription": "WeChat 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 5",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-5/WeChatTQM5.ipa",
+            "versionDescription": "WeChat 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "WeChat 6",
+            "version": "8.0.17",
+            "iconURL": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "downloadURL": "https://archive.org/download/we-chat-tqm-6/WeChatTQM6.ipa",
+            "versionDescription": "WeChat 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "MoMo 2",
+            "version": "4.0.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/momo.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/MoMoTQM2.ipa",
+            "versionDescription": "MoMo 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "MoMo 3",
+            "version": "4.0.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/momo.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/MoMoTQM3.ipa",
+            "versionDescription": "MoMo 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "MoMo 4",
+            "version": "4.0.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/momo.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/MoMoTQM4.ipa",
+            "versionDescription": "MoMo 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "MoMo 5",
+            "version": "4.0.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/momo.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/MoMoTQM5.ipa",
+            "versionDescription": "MoMo 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "MoMo 6",
+            "version": "4.0.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/momo.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/MoMoTQM6.ipa",
+            "versionDescription": "MoMo 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Instagram++",
+            "version": "216.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/ig.png",
+            "downloadURL": "https://archive.org/download/instageram-TQM/instageram-TQM.ipa",
+            "versionDescription": "Instagram++ For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "TikTok No Logo",
+            "version": "27.4.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/tiktok.png",
+            "downloadURL": "https://archive.org/download/tik-tok-tqm/TikTok-TQM.ipa",
+            "versionDescription": "TikTok No Logo For ios13 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "TikTok No Logo",
+            "version": "19.3.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/tiktok.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/TikTok-TQM19.ipa",
+            "versionDescription": "TikTok No Logo For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "YouNoAds TQM",
+            "version": "17.32.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/yt.png",
+            "downloadURL": "https://archive.org/download/ytnoads-TQM/ytnoads-TQM.ipa",
+            "versionDescription": "Youtube No ads For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "DLTube TQM",
+            "version": "17.32.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/yt.png",
+            "downloadURL": "https://archive.org/download/dltube-tqm/DLTubeTQM.ipa",
+            "versionDescription": "Youtube No ads For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "uYou ( PiP )",
+            "version": "17.36.3",
+            "iconURL": "https://tqm-ipa.github.io/js/img/yt.png",
+            "downloadURL": "https://archive.org/download/uyou-TQM/uyou-TQM.ipa",
+            "versionDescription": "Youtube No ads For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "HdoPlay",
+            "version": "1.0.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/hdo.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/HdoPlay-TQM.ipa",
+            "versionDescription": "HdoPlay No ads For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Play Diary",
+            "version": "1.1.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/playdiary.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/PlayDiary-TQM.ipa",
+            "versionDescription": "Play Diary For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Kodi",
+            "version": "19.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/kodi.png",
+            "downloadURL": "https://archive.org/download/kodi-TQM/kodi-TQM.ipa",
+            "versionDescription": "Kodi For ios10.0 Trở nên | 64bit"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "PPSSPP",
+            "version": "1.12.3-340",
+            "iconURL": "https://tqm-ipa.github.io/js/img/ppsspp.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/ppsspp-TQM.ipa",
+            "versionDescription": "PPSSPP For ios9 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "ZingVip",
+            "version": "4.0.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/zing.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Zing-TQM.ipa",
+            "versionDescription": "ZingVip For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Ulike Premium",
+            "version": "2.9.7",
+            "iconURL": "https://tqm-ipa.github.io/js/img/ulike.png",
+            "downloadURL": "https://archive.org/download/ulike-TQM/ulike-TQM.ipa",
+            "versionDescription": "Ulike Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Camera360 Gold",
+            "version": "9.9.33",
+            "iconURL": "https://tqm-ipa.github.io/js/img/camera360.png",
+            "downloadURL": "https://archive.org/download/camera-360-tqm/Camera360-TQM.ipa",
+            "versionDescription": "Camera360 Gold For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Beauty Plus",
+            "version": "7.2.011",
+            "iconURL": "https://tqm-ipa.github.io/js/img/beauty.png",
+            "downloadURL": "https://archive.org/download/beauty-plus-tqm/BeautyPlus-TQM.ipa",
+            "versionDescription": "Beauty Plus For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "PhotoLab Premium",
+            "version": "3.11.14",
+            "iconURL": "https://tqm-ipa.github.io/js/img/photolab.png",
+            "downloadURL": "https://archive.org/download/photo-lab-tqm/Photo%20Lab-TQM.ipa",
+            "versionDescription": "PhotoLab Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Terabox Premium",
+            "version": "3.6.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/terbox.png",
+            "downloadURL": "https://archive.org/download/tera-box-tqm/TeraBox-TQM.ipa",
+            "versionDescription": "Terabox Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Intolive Pro",
+            "version": "3.3.3",
+            "iconURL": "https://tqm-ipa.github.io/js/img/intolivepro.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/intolivepro-TQM.ipa",
+            "versionDescription": "Intolive Pro For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "KineMaster Premium",
+            "version": "6.0.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/kinesmaster.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/kinesmaster-TQM.ipa",
+            "versionDescription": "KineMaster Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Capcut Premium",
+            "version": "7.4.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/capcut.png",
+            "downloadURL": "https://archive.org/download/cap-cut-tqm/CapCut-TQM.ipa",
+            "versionDescription": "Capcut Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Spotifi Premium",
+            "version": "8.6.42",
+            "iconURL": "https://tqm-ipa.github.io/js/img/spotifi.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/spotifi-TQM.ipa",
+            "versionDescription": "Spotifi Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "PicsArt Premium",
+            "version": "21.3.9",
+            "iconURL": "https://tqm-ipa.github.io/js/img/pic.png",
+            "downloadURL": "https://archive.org/download/pics-art-tqm/PicsArt-TQM.ipa",
+            "versionDescription": "PicsArt Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Viva Videos Premium",
+            "version": "9.7.5",
+            "iconURL": "https://tqm-ipa.github.io/js/img/vivavideo.png",
+            "downloadURL": "https://archive.org/download/viva-video-tqm/VivaVideo-TQM.ipa",
+            "versionDescription": "Viva Videos Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Lightroom",
+            "version": "8.0.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/lr.png",
+            "downloadURL": "https://archive.org/download/lightroom-TQM/lightroom-TQM.ipa",
+            "versionDescription": "Lightroom For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "AdobePS Premium",
+            "version": "22.15.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/adope.png",
+            "downloadURL": "https://archive.org/download/adope-TQM/adope-TQM.ipa",
+            "versionDescription": "AdobePS Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Filza",
+            "version": "3.7",
+            "iconURL": "https://tqm-ipa.github.io/js/img/filza.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Filza-TQM.ipa",
+            "versionDescription": "Filza NonJB For ios13.0-14.3 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Filza 15",
+            "version": "3.8",
+            "iconURL": "https://tqm-ipa.github.io/js/img/filza.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Filza15-TQM.ipa",
+            "versionDescription": "Filza NonJB For ios15.0-15.1.1 | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Subway Surfers",
+            "version": "3.5.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/subwaysurfers.png",
+            "downloadURL": "https://archive.org/download/subway-surf-tqm/SubwaySurf-TQM.ipa",
+            "versionDescription": "Subway Surfers For ios11 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Minecraft",
+            "version": "1.19.30",
+            "iconURL": "https://tqm-ipa.github.io/js/img/minecraft.png",
+            "downloadURL": "https://archive.org/download/minecraft-tqm/Minecraft-TQM.ipa",
+            "versionDescription": "Minecraft For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "incredibox",
+            "version": "0.5.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/incredibox.png",
+            "downloadURL": "https://archive.org/download/incredibox-TQM/incredibox-TQM.ipa",
+            "versionDescription": "incredibox For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Temple Run2",
+            "version": "1.88.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/templerun.png",
+            "downloadURL": "https://archive.org/download/templerun2-TQM/templerun2-TQM.ipa",
+            "versionDescription": "Temple Run2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "GTA Vice City",
+            "version": "1.5.6",
+            "iconURL": "https://tqm-ipa.github.io/js/img/gtavicecity.png",
+            "downloadURL": "https://archive.org/download/gtavicecity-TQM/gtavicecity-TQM.ipa",
+            "versionDescription": "GTA Vice City For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "GTA III",
+            "version": "1.3.13",
+            "iconURL": "https://tqm-ipa.github.io/js/img/gta3.png",
+            "downloadURL": "https://archive.org/download/gta3-TQM/gta3-TQM.ipa",
+            "versionDescription": "GTA III For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "GTA San",
+            "version": "2.02.07",
+            "iconURL": "https://tqm-ipa.github.io/js/img/gtasan.png",
+            "downloadURL": "https://archive.org/download/gtasa-tqm/GTASA-TQM.ipa",
+            "versionDescription": "GTA San For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Getting Over it",
+            "version": "1.05",
+            "iconURL": "https://tqm-ipa.github.io/js/img/gettingoverit.png",
+            "downloadURL": "https://archive.org/download/gettingoverit-TQM/gettingoverit-TQM.ipa",
+            "versionDescription": "Getting Over it For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Shadow Fight 3",
+            "version": "1.29.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/shadowfight3.png",
+            "downloadURL": "https://archive.org/download/shadowfight3-TQM/shadowfight3-TQM.ipa",
+            "versionDescription": "Shadow Fight 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Shadow Fight 2",
+            "version": "2.23.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/shadowfight2.png",
+            "downloadURL": "https://archive.org/download/shadowfight2-TQM/shadowfight2-TQM.ipa",
+            "versionDescription": "Shadow Fight 2 For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Clash of Clan",
+            "version": "15.83.19",
+            "iconURL": "https://tqm-ipa.github.io/js/img/clash.png",
+            "downloadURL": "https://archive.org/download/clash-TQM/clash-TQM.ipa",
+            "versionDescription": "Clash of Clan For ios11 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "PvZ2",
+            "version": "9.8.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/pvz2.png",
+            "downloadURL": "https://archive.org/download/pvz2-TQM/pvz2-TQM.ipa",
+            "versionDescription": "PvZ2 Hack For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "PvZ1",
+            "version": "1.9.13",
+            "iconURL": "https://tqm-ipa.github.io/js/img/pvz.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/PvZ-TQM.ipa",
+            "versionDescription": "PvZ1 Hack For ios7 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Liên Quân Hack Maps",
+            "version": "1.47.18",
+            "iconURL": "https://tqm-ipa.github.io/js/img/lol.png",
+            "downloadURL": "https://archive.org/download/lol-TQM/lol-TQM.ipa",
+            "versionDescription": "Liên Quân Hack For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "FreeFire Hack",
+            "version": "1.93.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/freefire.png",
+            "downloadURL": "https://archive.org/download/freefire-TQM/freefire-TQM.ipa",
+            "versionDescription": "FreeFire Hack For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "8BallPool",
+            "version": "5.8.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/8ballpool.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/8BallPool-TQM.ipa",
+            "versionDescription": "8BallPool ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Candy Crush Saga",
+            "version": "1.233.1",
+            "iconURL": "https://tqm-ipa.github.io/js/img/candy.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Candy-TQM.ipa",
+            "versionDescription": "Candy Crush Saga ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Candy Crush Soda",
+            "version": "1.190.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/soda.png",
+            "downloadURL": "https://tqm-ios.github.io/ipa/Soda-TQM.ipa",
+            "versionDescription": "Candy Crush Soda ios8 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Homescapes",
+            "version": "5.7.3",
+            "iconURL": "https://tqm-ipa.github.io/js/img/home.png",
+            "downloadURL": "https://archive.org/download/homescapes-tqm/Homescapes-TQM.ipa",
+            "versionDescription": "Homescapes ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "DLS19",
+            "version": "6.06",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dls19.png",
+            "downloadURL": "https://archive.org/download/dream-league-tqm/DreamLeague-TQM.ipa",
+            "versionDescription": "DLS19 Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "DLS22",
+            "version": "9.14",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dls22.png",
+            "downloadURL": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
+            "versionDescription": "DLS22 Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "DLS23",
+            "version": "10.060",
+            "iconURL": "https://tqm-ipa.github.io/js/img/dls23.png",
+            "downloadURL": "https://archive.org/download/dls-23-tqm/DLS23-TQM.ipa",
+            "versionDescription": "DLS23 Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Hungry Shark World",
+            "version": "4.7.0",
+            "iconURL": "https://tqm-ipa.github.io/js/img/hungryshark.png",
+            "downloadURL": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
+            "versionDescription": "Hungry Shark World ios12 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Hungry Shark Evolution",
+            "version": "9.1.8",
+            "iconURL": "https://tqm-ipa.github.io/js/img/hungryshark.png",
+            "downloadURL": "https://archive.org/download/hungry-shark-evo-tqm/HungrySharkEvo-TQM.ipa",
+            "versionDescription": "Hungry Shark World ios11 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Archero",
+            "version": "4.3.4",
+            "iconURL": "https://tqm-ipa.github.io/js/img/archero.png",
+            "downloadURL": "https://archive.org/download/archero-tqm/Archero-TQM.ipa",
+            "versionDescription": "Archero Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Inside",
+            "version": "1.1.8",
+            "iconURL": "https://tqm-ipa.github.io/js/img/inside.png",
+            "downloadURL": "https://archive.org/download/inside-tqm/Inside-TQM.ipa",
+            "versionDescription": "Inside ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "The Spike",
+            "version": "1.1.2",
+            "iconURL": "https://tqm-ipa.github.io/js/img/thespike.png",
+            "downloadURL": "https://archive.org/download/the-spike-tqm/TheSpike-TQM.ipa",
+            "versionDescription": "The Spike ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Call of Duty",
+            "version": "202301040",
+            "iconURL": "https://tqm-ipa.github.io/js/img/duty.png",
+            "downloadURL": "https://archive.org/download/duty-tqm/DutyTQM.ipa",
+            "versionDescription": "Call of Duty ios10 Trở nên | All Devices"
+        },
+
+        {
+            "isLanZouCloud": 0,
+            "name": "Lẩu 5 sao",
+            "version": "1.4.5",
+            "iconURL": "https://tqm-ipa.github.io/js/img/lau.png",
+            "downloadURL": "https://archive.org/download/myhots-tqm/MyhotsTQM.ipa",
+            "versionDescription": "Lẩu 5 sao ios10 Trở nên | All Devices"
+        }
+    ]
+}

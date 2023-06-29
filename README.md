@@ -1,12 +1,10 @@
-# https://king-mos.github.io
+# https://tqm-mos.com
 
 # Email : anhminh311105@gmail.com
 
-# Kho IPA By TQM-Mos ( Trần Quang Minh ) Kho Lưu Trữ Tinh Chỉnh Tốt Nhất ! 😎
+# Kho Tinh Chỉnh By TQM-Mos ( Trần Quang Minh ) Kho Lưu Trữ Tinh Chỉnh Tốt Nhất ! 😎
 
 # Trần Quang Minh
-
-# Ông Cễnh 😎
 
 # TQM - Mos
 

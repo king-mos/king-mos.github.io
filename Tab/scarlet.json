@@ -1,0 +1,898 @@
+{
+	"META": {
+    "repoName": "TQM - Store",
+    "repoIcon": "https://tqm-ipa.github.io/js/img/icon.png"
+        },
+    "Tools Sign": [{
+            "category": "Tools Sign",
+            "name": "GBox",
+            "version": "4.3.5",
+            "icon": "https://tqm-ipa.github.io/js/img/gbox.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/gbox-tqm_202302/GBox-TQM.ipa",
+            "description": "Store Sign For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tools Sign",
+            "name": "ESign",
+            "version": "4.8.1",
+            "icon": "https://tqm-ipa.github.io/js/img/esign.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/esign-tqm_202302/ESign-TQM.ipa",
+            "description": "Store Sign For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tools Sign",
+            "name": "Scarlet",
+            "version": "1.0",
+            "icon": "https://tqm-ipa.github.io/js/img/scarlet.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/scarlet-tqm/Scarlet-TQM.ipa",
+            "description": "Store Sign For ios13 Trở nên | All Devices"
+        }, {
+            "category": "Tools Sign",
+            "name": "Magic Sign",
+            "version": "5.1.1",
+            "icon": "https://tqm-ipa.github.io/js/img/magicsign.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/MagicSign-TQM.ipa",
+            "description": "Store Sign For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tools Sign",
+            "name": "ZSign",
+            "version": "7.2.8",
+            "icon": "https://tqm-ipa.github.io/js/img/zsign.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Zsign-TQM.ipa",
+            "description": "Store Sign For ios12 Trở nên | All Devices"
+        }, {
+            "category": "Tools Sign",
+            "name": "AppCake",
+            "version": "7.2.2",
+            "icon": "https://tqm-ipa.github.io/js/img/appcake.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/AppCake-TQM.ipa",
+            "description": "Store Apps For ios13 Trở nên | All Devices"
+        }],
+    "Tools Jailbreaks": [{
+            "category": "Tools Jailbreaks",
+            "name": "Unc0ver 8.0.2",
+            "version": "8.0.2",
+            "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/unc0ver802-TQM.ipa",
+            "description": "jailbreak For ios11.0-14.8 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Unc0ver 8.0.1",
+            "version": "8.0.1",
+            "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/unc0ver801-TQM.ipa",
+            "description": "jailbreak For ios11.0-14.8 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Unc0ver 8.0.0",
+            "version": "8.0.0",
+            "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/unc0ver800-TQM.ipa",
+            "description": "jailbreak For ios11.0-14.8 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Unc0ver 7.0.2",
+            "version": "7.0.2",
+            "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/unc0ver702-TQM.ipa",
+            "description": "jailbreak For ios11.0-14.8 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Unc0ver 6.2.0",
+            "version": "6.2.0",
+            "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/unc0ver620-TQM.ipa",
+            "description": "jailbreak For ios11.0-14.8 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Unc0ver 6.1.2",
+            "version": "6.1.2",
+            "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/unc0ver612-TQM.ipa",
+            "description": "jailbreak For ios11.0-14.8 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Unc0ver 6.0.0",
+            "version": "6.0.0",
+            "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/unc0ver600-TQM.ipa",
+            "description": "jailbreak For ios11.0-14.8 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Unc0ver 5.3.1",
+            "version": "5.3.1",
+            "icon": "https://tqm-ipa.github.io/js/img/unc0ver.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/unc0ver531-TQM.ipa",
+            "description": "jailbreak For ios11.0-14.8 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Taurine",
+            "version": "1.1.6",
+            "icon": "https://tqm-ipa.github.io/js/img/ta.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Taurine-TQM.ipa",
+            "description": "jailbreak For ios14.0-14.3 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "XinaA15",
+            "version": "1.1.6.2",
+            "icon": "https://tqm-ipa.github.io/js/img/xina.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/xina-a-15-tqm/XinaA15-TQM.ipa",
+            "description": "jailbreak For ios15.0-15.1.1 | A12 - A15M1"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Th0r",
+            "version": "2.9.6",
+            "icon": "https://tqm-ipa.github.io/js/img/thor.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Th0r-TQM.ipa",
+            "description": "jailbreak For ios11.0-11.4.1 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Th0r4",
+            "version": "1.4.2",
+            "icon": "https://tqm-ipa.github.io/js/img/th0r.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Th0r4-TQM.ipa",
+            "description": "jailbreak For ios13.0-13.7 | A9-A13"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Th0r14",
+            "version": "4.1.2",
+            "icon": "https://tqm-ipa.github.io/js/img/th0r.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Th0r14-TQM.ipa",
+            "description": "jailbreak For ios14.0-14.3 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Odyssey",
+            "version": "1.4.2",
+            "icon": "https://tqm-ipa.github.io/js/img/ody.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Odyssey-TQM.ipa",
+            "description": "jailbreak For ios13.0-13.7 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Chimera",
+            "version": "1.6.4",
+            "icon": "https://tqm-ipa.github.io/js/img/chimera.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/chimera-TQM.ipa",
+            "description": "jailbreak For ios12.2-12.5.6 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Chimera",
+            "version": "1.6.4",
+            "icon": "https://tqm-ipa.github.io/js/img/chimera.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/chimera12-TQM.ipa",
+            "description": "jailbreak For ios12.0-12.1.4 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Freya",
+            "version": "1.3.5",
+            "icon": "https://tqm-ipa.github.io/js/img/freya.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Freya-TQM.ipa",
+            "description": "jailbreak For ios11.0-12.5.6 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Electra",
+            "version": "2.0",
+            "icon": "https://tqm-ipa.github.io/js/img/electra.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Electra-TQM.ipa",
+            "description": "jailbreak For ios11.0-11.4.1 | All Devices"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "DoubleH3lix",
+            "version": "RC8",
+            "icon": "https://tqm-ipa.github.io/js/img/doubleH3lix.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/doubleH3lix-TQM.ipa",
+            "description": "jailbreak For ios10.0-10.3.3| 64bit"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "H3lix",
+            "version": "RC6",
+            "icon": "https://tqm-ipa.github.io/js/img/h3lix.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/h3lix-TQM.ipa",
+            "description": "jailbreak For ios10.0-10.3.4 | 32bit"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Meridian",
+            "version": "1.0",
+            "icon": "https://tqm-ipa.github.io/js/img/Meridian.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Meridian-TQM.ipa",
+            "description": "jailbreak For ios10.0-10.3.3 | 64bit"
+        }, {
+            "category": "Tools Jailbreaks",
+            "name": "Yalu102",
+            "version": "0.7",
+            "icon": "https://tqm-ipa.github.io/js/img/yalu102.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/yalu102-TQM.ipa",
+            "description": "jailbreak For ios10.0-10.2 | 64bit"
+        }],
+    "Tweaks Apps++": [{
+            "category": "Tweaks Apps++",
+            "name": "ScreenshotX",
+            "version": "1.0",
+            "icon": "https://tqm-ipa.github.io/js/img/ScreenshotX.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/ScreenshotX-TQM.ipa",
+            "description": "ScreenshotX For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Facebook Lite",
+            "version": "200.0",
+            "icon": "https://tqm-ipa.github.io/js/img/lite.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/FaceLite-TQM.ipa",
+            "description": "Facebook Lite For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Facebook v82",
+            "version": "82.0",
+            "icon": "https://tqm-ipa.github.io/js/img/fb82.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/facebook-82-tqm/Facebook82-TQM.ipa",
+            "description": "Facebook v82 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Facebook 2",
+            "version": "390.0",
+            "icon": "https://tqm-ipa.github.io/js/img/fb.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/facebook-2-tqm/Facebook2-TQM.ipa",
+            "description": "Facebook 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Facebook 3",
+            "version": "390.0",
+            "icon": "https://tqm-ipa.github.io/js/img/fb.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/facebook-tqm/Facebook-TQM.ipa",
+            "description": "Facebook 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Facebook 4",
+            "version": "390.0",
+            "icon": "https://tqm-ipa.github.io/js/img/fb.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/facebook-4_20220823/Facebook4.ipa",
+            "description": "Facebook 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Facebook 5",
+            "version": "390.0",
+            "icon": "https://tqm-ipa.github.io/js/img/fb.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/facebook-5_202208/Facebook5.ipa",
+            "description": "Facebook 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Facebook 6",
+            "version": "390.0",
+            "icon": "https://tqm-ipa.github.io/js/img/fb.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/facebook-6_202208/Facebook6.ipa",
+            "description": "Facebook 6 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Messenger 2",
+            "version": "311.0",
+            "icon": "https://tqm-ipa.github.io/js/img/mes.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Messenger2-TQM.ipa",
+            "description": "Messenger 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Messenger 3",
+            "version": "311.0",
+            "icon": "https://tqm-ipa.github.io/js/img/mes.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Messenger3.ipa",
+            "description": "Messenger 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Messenger 4",
+            "version": "311.0",
+            "icon": "https://tqm-ipa.github.io/js/img/mes.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Messenger4.ipa",
+            "description": "Messenger 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Messenger 5",
+            "version": "311.0",
+            "icon": "https://tqm-ipa.github.io/js/img/mes.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Messenger5.ipa",
+            "description": "Messenger 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Messenger 6",
+            "version": "311.0",
+            "icon": "https://tqm-ipa.github.io/js/img/mes.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Messenger6.ipa",
+            "description": "Messenger 6 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Messenger Lite",
+            "version": "381.0",
+            "icon": "https://tqm-ipa.github.io/js/img/messlite.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/messegen-TQM.ipa",
+            "description": "Messenger Lite For ios9-14.8.1 | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Zalo 2",
+            "version": "221001.1",
+            "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/zalo-2-tqm/Zalo2-TQM.ipa",
+            "description": "Zalo 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Zalo 3",
+            "version": "221001.1",
+            "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/zalo-3/Zalo3.ipa",
+            "description": "Zalo 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Zalo 4",
+            "version": "221001.1",
+            "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/zalo-4/Zalo4.ipa",
+            "description": "Zalo 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Zalo 5",
+            "version": "221001.1",
+            "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/zalo-5/Zalo5.ipa",
+            "description": "Zalo 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Zalo 6",
+            "version": "221001.1",
+            "icon": "https://tqm-ipa.github.io/js/img/zalo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/zalo-6/Zalo6.ipa",
+            "description": "Zalo 6 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 2",
+            "version": "22.20.75",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/WhatsApp-TQM.ipa",
+            "description": "WhatsApp 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 3",
+            "version": "22.20.75",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/WhatsAppTQM3.ipa",
+            "description": "WhatsApp 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 4",
+            "version": "22.20.75",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/WhatsAppTQM4.ipa",
+            "description": "WhatsApp 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 5",
+            "version": "22.20.75",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/WhatsAppTQM5.ipa",
+            "description": "WhatsApp 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WhatsApp 6",
+            "version": "22.20.75",
+            "icon": "https://tqm-ipa.github.io/js/img/whatsapp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/WhatsAppTQM6.ipa",
+            "description": "WhatsApp 6 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 2",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-2/WeChatTQM2.ipa",
+            "description": "WeChat 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 3",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-3/WeChatTQM3.ipa",
+            "description": "WeChat 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 4",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-4/WeChatTQM4.ipa",
+            "description": "WeChat 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 5",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-5/WeChatTQM5.ipa",
+            "description": "WeChat 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "WeChat 6",
+            "version": "8.0.17",
+            "icon": "https://tqm-ipa.github.io/js/img/wechat.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/we-chat-tqm-6/WeChatTQM6.ipa",
+            "description": "WeChat 6 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 2",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/MoMoTQM2.ipa",
+            "description": "MoMo 2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 3",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/MoMoTQM3.ipa",
+            "description": "MoMo 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 4",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/MoMoTQM4.ipa",
+            "description": "MoMo 4 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 5",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/MoMoTQM5.ipa",
+            "description": "MoMo 5 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "MoMo 6",
+            "version": "4.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/momo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/MoMoTQM6.ipa",
+            "description": "MoMo 6 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Instagram++",
+            "version": "216.0",
+            "icon": "https://tqm-ipa.github.io/js/img/ig.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/instageram-TQM/instageram-TQM.ipa",
+            "description": "Instagram++ For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "TikTok No Logo",
+            "version": "29.0.0",
+            "icon": "https://tqm-ipa.github.io/js/img/tiktok.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/tik-tok-tqm/TikTok-TQM.ipa",
+            "description": "TikTok No Logo For ios13 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "TikTok No Logo",
+            "version": "19.3.0",
+            "icon": "https://tqm-ipa.github.io/js/img/tiktok.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/TikTok-TQM19.ipa",
+            "description": "TikTok No Logo For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "YouNoAds TQM",
+            "version": "17.32.2",
+            "icon": "https://tqm-ipa.github.io/js/img/yt.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/ytnoads-TQM/ytnoads-TQM.ipa",
+            "description": "Youtube No ads For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "DLTube TQM",
+            "version": "17.32.2",
+            "icon": "https://tqm-ipa.github.io/js/img/yt.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/dltube-tqm/DLTubeTQM.ipa",
+            "description": "Youtube No ads For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "uYou ( PiP )",
+            "version": "17.36.3",
+            "icon": "https://tqm-ipa.github.io/js/img/yt.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/uyou-TQM/uyou-TQM.ipa",
+            "description": "Youtube No ads For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "HdoPlay",
+            "version": "1.0.2",
+            "icon": "https://tqm-ipa.github.io/js/img/hdo.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/HdoPlay-TQM.ipa",
+            "description": "HdoPlay No ads For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Play Diary",
+            "version": "1.1.0",
+            "icon": "https://tqm-ipa.github.io/js/img/playdiary.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/PlayDiary-TQM.ipa",
+            "description": "Play Diary For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Kodi",
+            "version": "19.4",
+            "icon": "https://tqm-ipa.github.io/js/img/kodi.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/kodi-TQM/kodi-TQM.ipa",
+            "description": "Kodi For ios10.0 Trở nên | 64bit"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "PPSSPP",
+            "version": "1.12.3-340",
+            "icon": "https://tqm-ipa.github.io/js/img/ppsspp.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/ppsspp-TQM.ipa",
+            "description": "PPSSPP For ios9 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "ZingVip",
+            "version": "4.0.2",
+            "icon": "https://tqm-ipa.github.io/js/img/zing.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Zing-TQM.ipa",
+            "description": "ZingVip For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Ulike Premium",
+            "version": "2.9.7",
+            "icon": "https://tqm-ipa.github.io/js/img/ulike.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/ulike-TQM/ulike-TQM.ipa",
+            "description": "Ulike Premium For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Camera360 Gold",
+            "version": "9.9.33",
+            "icon": "https://tqm-ipa.github.io/js/img/camera360.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/camera-360-tqm/Camera360-TQM.ipa",
+            "description": "Camera360 Gold For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Beauty Plus",
+            "version": "7.2.011",
+            "icon": "https://tqm-ipa.github.io/js/img/beauty.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/beauty-plus-tqm/BeautyPlus-TQM.ipa",
+            "description": "Beauty Plus For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Intolive Pro",
+            "version": "3.3.3",
+            "icon": "https://tqm-ipa.github.io/js/img/intolivepro.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/intolivepro-TQM.ipa",
+            "description": "Intolive Pro For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "KineMaster Premium",
+            "version": "6.0.4",
+            "icon": "https://tqm-ipa.github.io/js/img/kinesmaster.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/kinesmaster-TQM.ipa",
+            "description": "KineMaster Premium For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Spotifi Premium",
+            "version": "8.6.42",
+            "icon": "https://tqm-ipa.github.io/js/img/spotifi.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/spotifi-TQM.ipa",
+            "description": "Spotifi Premium For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "PicsArt Premium",
+            "version": "21.3.9",
+            "icon": "https://tqm-ipa.github.io/js/img/pic.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/pics-art-tqm/PicsArt-TQM.ipa",
+            "description": "PicsArt Premium For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Lightroom",
+            "version": "8.0.0",
+            "icon": "https://tqm-ipa.github.io/js/img/lr.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/lightroom-TQM/lightroom-TQM.ipa",
+            "description": "Lightroom For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "AdobePS Premium",
+            "version": "22.15.0",
+            "icon": "https://tqm-ipa.github.io/js/img/adope.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/adope-TQM/adope-TQM.ipa",
+            "description": "AdobePS Premium For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Filza",
+            "version": "3.7",
+            "icon": "https://tqm-ipa.github.io/js/img/filza.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Filza-TQM.ipa",
+            "description": "Filza NonJB For ios13.0-14.3 | All Devices"
+        }, {
+            "category": "Tweaks Apps++",
+            "name": "Filza 15",
+            "version": "3.8",
+            "icon": "https://tqm-ipa.github.io/js/img/filza.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Filza15-TQM.ipa",
+            "description": "Filza NonJB For ios15.0-15.1.1 | All Devices"
+        }],
+    "Games++": [{
+            "category": "Games++",
+            "name": "Subway Surfers",
+            "version": "2.35.0",
+            "icon": "https://tqm-ipa.github.io/js/img/subwaysurfers.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/subway-surf-tqm/SubwaySurf-TQM.ipa",
+            "description": "Subway Surfers For ios11 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Minecraft",
+            "version": "1.19.30",
+            "icon": "https://tqm-ipa.github.io/js/img/minecraft.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/minecraft-tqm/Minecraft-TQM.ipa",
+            "description": "Minecraft For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "incredibox",
+            "version": "0.5.2",
+            "icon": "https://tqm-ipa.github.io/js/img/incredibox.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/incredibox-TQM/incredibox-TQM.ipa",
+            "description": "incredibox For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Temple Run2",
+            "version": "1.88.0",
+            "icon": "https://tqm-ipa.github.io/js/img/templerun.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/templerun2-TQM/templerun2-TQM.ipa",
+            "description": "Temple Run2 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "GTA Vice City",
+            "version": "1.5.6",
+            "icon": "https://tqm-ipa.github.io/js/img/gtavicecity.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/gtavicecity-TQM/gtavicecity-TQM.ipa",
+            "description": "GTA Vice City For ios8 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "GTA III",
+            "version": "1.3.13",
+            "icon": "https://tqm-ipa.github.io/js/img/gta3.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/gta3-TQM/gta3-TQM.ipa",
+            "description": "GTA III For ios8 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "GTA San",
+            "version": "2.02.07",
+            "icon": "https://tqm-ipa.github.io/js/img/gtasan.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/gtasa-tqm/GTASA-TQM.ipa",
+            "description": "GTA San For ios8 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Getting Over it",
+            "version": "1.05",
+            "icon": "https://tqm-ipa.github.io/js/img/gettingoverit.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/gettingoverit-TQM/gettingoverit-TQM.ipa",
+            "description": "Getting Over it For ios8 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Shadow Fight 3",
+            "version": "1.29.4",
+            "icon": "https://tqm-ipa.github.io/js/img/shadowfight3.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/shadowfight3-TQM/shadowfight3-TQM.ipa",
+            "description": "Shadow Fight 3 For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Shadow Fight 2",
+            "version": "2.23.0",
+            "icon": "https://tqm-ipa.github.io/js/img/shadowfight2.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/shadowfight2-TQM/shadowfight2-TQM.ipa",
+            "description": "Shadow Fight 2 For ios8 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Clash of Clan",
+            "version": "15.0.2",
+            "icon": "https://tqm-ipa.github.io/js/img/clash.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/clash-TQM/clash-TQM.ipa",
+            "description": "Clash of Clan For ios11 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "PvZ2",
+            "version": "14.635.6",
+            "icon": "https://tqm-ipa.github.io/js/img/pvz2.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/pvz2-TQM/pvz2-TQM.ipa",
+            "description": "PvZ2 Hack For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "PvZ1",
+            "version": "1.9.13",
+            "icon": "https://tqm-ipa.github.io/js/img/pvz.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/PvZ-TQM.ipa",
+            "description": "PvZ1 Hack For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Liên Quân Hack Maps",
+            "version": "1.50.11",
+            "icon": "https://tqm-ipa.github.io/js/img/lol.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/lol-TQM/lol-TQM.ipa",
+            "description": "Liên Quân Hack For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "FreeFire Hack",
+            "version": "1.93.1",
+            "icon": "https://tqm-ipa.github.io/js/img/freefire.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/freefire-TQM/freefire-TQM.ipa",
+            "description": "FreeFire Hack For ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "8BallPool",
+            "version": "5.8.1",
+            "icon": "https://tqm-ipa.github.io/js/img/8ballpool.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/8BallPool-TQM.ipa",
+            "description": "8BallPool ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Candy Crush Saga",
+            "version": "1.233.1",
+            "icon": "https://tqm-ipa.github.io/js/img/candy.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Candy-TQM.ipa",
+            "description": "Candy Crush Saga ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Candy Crush Soda",
+            "version": "1.190.2",
+            "icon": "https://tqm-ipa.github.io/js/img/soda.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://tqm-ios.github.io/ipa/Soda-TQM.ipa",
+            "description": "Candy Crush Soda ios8 Trở nên | All Devices"
+        },  {
+            "category": "Games++",
+            "name": "Homescapes",
+            "version": "5.7.3",
+            "icon": "https://tqm-ipa.github.io/js/img/home.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/homescapes-tqm/Homescapes-TQM.ipa",
+            "description": "Homescapes ios10 Trở nên | All Devices"
+        },   {
+            "category": "Games++",
+            "name": "DLS22",
+            "version": "9.14",
+            "icon": "https://tqm-ipa.github.io/js/img/dls22.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
+            "description": "DLS22 Hack ios10 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Hungry Shark World",
+            "version": "4.7.0",
+            "icon": "https://tqm-ipa.github.io/js/img/hungryshark.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
+            "description": "Hungry Shark World ios12 Trở nên | All Devices"
+        }, {
+           "category": "Games++",
+            "name": "Hungry Shark Evolution",
+            "version": "9.1.8",
+            "icon": "https://tqm-ipa.github.io/js/img/hungryshark.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/hungry-shark-evo-tqm/HungrySharkEvo-TQM.ipa",
+            "description": "Hungry Shark World ios11 Trở nên | All Devices"
+        }, {
+            "category": "Games++",
+            "name": "Archero",
+            "version": "4.3.4",
+            "icon": "https://tqm-ipa.github.io/js/img/archero.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/archero-tqm/Archero-TQM.ipa",
+            "description": "Archero Hack ios10 Trở nên | All Devices"
+        },  {
+            "category": "Games++",
+            "name": "Inside",
+            "version": "1.1.8",
+            "icon": "https://tqm-ipa.github.io/js/img/inside.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/inside-tqm/Inside-TQM.ipa",
+            "description": "Inside ios10 Trở nên | All Devices"
+        },  {
+            "category": "Games++",
+            "name": "The Spike",
+            "version": "1.1.2",
+            "icon": "https://tqm-ipa.github.io/js/img/thespike.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/the-spike-tqm/TheSpike-TQM.ipa",
+            "description": "The Spike ios10 Trở nên | All Devices"
+        },  {
+            "category": "Games++",
+            "name": "Call of Duty",
+            "version": "1.8.36",
+            "icon": "https://tqm-ipa.github.io/js/img/duty.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/duty-tqm/DutyTQM.ipa",
+            "description": "Call of Duty ios10 Trở nên | All Devices"
+        },  {
+            "category": "Games++",
+            "name": "Lẩu 5 sao",
+            "version": "1.4.5",
+            "icon": "https://tqm-ipa.github.io/js/img/lau.png",
+            "banner": "https://tqm-ipa.github.io/js/img/banner.png",
+            "down": "https://archive.org/download/myhots-tqm/MyhotsTQM.ipa",
+            "description": "Lẩu 5 sao ios10 Trở nên | All Devices"
+        }]
+}

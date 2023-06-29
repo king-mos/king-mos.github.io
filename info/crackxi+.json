@@ -1,0 +1,155 @@
+
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/info/data/logosileo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\"> CrackerXI+ là một ứng dụng bẻ khóa miễn phí cho phép bạn bẻ khóa các ứng dụng iOS được cài đặt trên thiết bị của mình.</p>\n<p style=\"font-size:10pt;\">CrackerXI Hook: Mình luôn bật cái này vì tắt nó toàn báo lỗi, có lúc mình tự hỏi thế sao không mặc định là bật luôn và bỏ luôn cái option này cho đỡ lằng nhằng =))</p>\n<p style=\"font-size:10pt;\">Cracker Name: Bạn điền tên bạn vào cho hoành tráng, làm màu cho vui 😉</p>\n<p style=\"font-size:10pt;\">Remove UISupportedDevices: Hình như để xóa các thiết bị được hỗ trợ UI. Mình chả biết dịch sao cho chuẩn nữa :'( Nói chung cái này mình chả bật bao giờ vì không dùng đến.</p>\n<p style=\"font-size:10pt;\">Set Minimum iOS version 10.0: Đặt mặc định file iPA sau khi loại bỏ ID sẽ hỗ trợ iOS 10.0 trở lên nhưng mình có test 1 số app yêu cầu iOS 11 trở lên và bật nó thì cũng không sử dụng được nên mình chẳng bao giờ bật.</p>\n<p style=\"font-size:10pt;\">Remove Watch App: Một số app có hỗ trợ cả Apple Watch, bạn bận cái này để xóa cái hỗ trợ Apple Watch đi. Mình cũng chả bao giờ dùng =))</p>\n<p style=\"font-size:10pt;\">Fakesign iPA File: Đây, cái này mình thấy đau đầu này. Một số app mình bật Fakesign lên thì máy khác cài ok, nhưng một số app thì máy khác bị crash cho nên anh em nào có kinh nghiệm vụ Fakesign này chỉ mình với nha 😀</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 330}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/crackxi+/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/crackxi+/screenshots/2.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "c0pyn1nja",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.1.16",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "11.0 - 16.x",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://www.facebook.com/tranquangminh0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Facebook (@quangminh)",
+          "openExternal": true
+        },
+        {
+          "action": "https://twitter.com/aminhdz",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Twitter (@tqmmos)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Trợ giúp & Hỗ Trợ"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://tqm-mos.com/info/data/logo2.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.1.16",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}

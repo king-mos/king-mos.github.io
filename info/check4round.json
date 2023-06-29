@@ -1,0 +1,155 @@
+
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://tqm-mos.com/info/data/logosileo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\"> Đây là giải pháp thay thế cho giới hạn SEP do các hạn chế của Apple đối với một số thiết bị chạy Checkra1n © không có mật khẩu màn hình khóa.</p>\n<p style=\"font-size:10pt;\"> đây không phải là sự thay thế các tính năng của SEP, như TouchID hoặc FaceID, mà là tinh chỉnh chỉ triển khai trường mật khẩu cho LockScreen của bạn và sau đó, cho Quyền riêng tư của bạn.</p>\n<p style=\"font-size:10pt;\"> Điều này được thực hiện để không làm cho thiết bị của bạn hoàn toàn không được giám sát (không có điều này, bất kỳ ai nhấn nút home đều có thể truy cập mọi thứ).</p>\n<p style=\"font-size:10pt;\">Cách sử dụng : Cài đặt nó và nhớ rằng mật khẩu mặc định là (1234), sau đó, vào cài đặt tinh chỉnh và đặt mật khẩu của riêng bạn.</p>",
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 330}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/check4round/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/check4round/screenshots/2.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Plat-Ykor",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "0.4",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "14.0 - 16.0",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "action": "https://www.facebook.com/tranquangminh0868388373",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Facebook (@quangminh)",
+          "openExternal": true
+        },
+        {
+          "action": "https://twitter.com/aminhdz",
+          "class": "DepictionTableButtonView",
+          "title": "Theo dõi Twitter (@tqmmos)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:anhminh311105@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "Trợ giúp & Hỗ Trợ"
+        },
+        {
+          "action": "https://www.paypal.me/tranquangminh2202",
+          "class": "DepictionTableButtonView",
+          "title": "Ủng hộ tôi 🍺 PayPal"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 40
+        },
+        {
+          "URL": "https://tqm-mos.com/info/data/logo2.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.4",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}
