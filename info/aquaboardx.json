@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Dynamic Peninsula làm cho phần notch có thể tương tác nhiều hơn.</p>\n<p style=\"font-size:10pt;\">Vòng sạc pin khi bạn sạc pin</p>\n<p style=\"font-size:10pt;\">Biểu tượng sóng (waveform) khi bạn gọi điện thoại</p>\n<p style=\"font-size:10pt;\">Biểu tượng mặt trăng khi bạn bật chế độ không làm phiền</p>\n<p style=\"font-size:10pt;\">Biểu tượng sóng (waveform) và ảnh bìa album khi bạn nghe nhạc</p>\n<p style=\"font-size:10pt;\">Bộ đếm giờ khi bạn có hẹn giờ</p>\n<p style=\"font-size:10pt;\">Biểu tượng ghi màn hình</p>\n<p style=\"font-size:10pt;\">Thiết bị Bluetooth và phần trăm pin cho AirPods được kết nối hoặc thiết bị Bluetooth khác</p>\n<p style=\"font-size:10pt;\">Biểu tượng chế độ chuông/im lặng khi bạn gạt công tắc</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Các hiệu ứng nước dựa trên OpenGL 3D thực sự trên SpringBoard của bạn!</p>\n<p style=\"font-size:10pt;\">Nhận các hiệu ứng nước mát mẻ, tương tác trên màn hình chính của bạn!</p>\n<p style=\"font-size:10pt;\">Chạm vào bất cứ đâu, trên các biểu tượng, hình nền, màn hình khóa của bạn và những gợn sóng nước xuất hiện ngay tại nơi bạn chạm hoặc kéo.</p>\n<p style=\"font-size:10pt;\">Nó tự động phủ lên hình nền của bạn, ở màn hình chính hoặc màn hình khóa và thêm các hiệu ứng nước tương tác.</p>\n<p style=\"font-size:10pt;\">Tinh chỉnh sử dụng OpenGL ES 2.0 để hiển thị các gợn nước mát trên màn hình.</p>\n<p style=\"font-size:10pt;\">Nó cung cấp khoảng 10 chủ đề hiệu ứng gợn sóng khác nhau (kích thước/độ sâu) và một số tùy chọn tùy chỉnh.</p>\n<p style=\"font-size:10pt;\">Pin thân thiện; Kết xuất OpenGL dừng khi gợn sóng dừng hoạt ảnh hoặc SpringBoard/Lockscreen không hiển thị.</p>\n<p style=\"font-size:10pt;\">Thỏa thích duyệt các biểu tượng của bạn và khoe với bạn bè bằng SpringBoard thú vị nhất!</p>\n<p style=\"font-size:10pt;\">Hoạt động bằng cách phủ một hiệu ứng lên hình nền màn hình khóa/màn hình chính. Nếu bạn sử dụng hình nền đã chỉnh sửa và nó không hiển thị, vui lòng liên hệ với tôi để thêm hỗ trợ.</p>",
           "useRawFormat": true
         },
         {
@@ -37,23 +37,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/dynamicpeninsula/screenshots/1.png"
+              "url": "https://tqm-mos.com/info/aquaboardx/screenshots/1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/dynamicpeninsula/screenshots/2.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/dynamicpeninsula/screenshots/3.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/dynamicpeninsula/screenshots/4.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/dynamicpeninsula/screenshots/5.png"
+              "url": "https://tqm-mos.com/info/aquaboardx/screenshots/2.png"
             }
           ]
         },
@@ -85,12 +73,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "0.6-74",
+          "text": "2.0-58",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "12.0 - 16.x",
+          "text": "11.0 - 16.x",
           "title": "Hỗ trợ"
         },
         {
@@ -105,7 +93,7 @@
           "spacing": 16
         },
         {
-          "action": "https://www.facebook.com/tranquangminh0868388373",
+          "action": "https://www.facebook.com/tranquangminh2202",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Facebook (@quangminh)",
           "openExternal": true
@@ -151,7 +139,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "0.6-74",
+          "title": "2.0-58",
           "useBoldText": true,
           "useBottomMargin": false
         },
