@@ -69,12 +69,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0.1",
+          "text": "1.0",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.x",
+          "text": "11.0 - Trở nên",
           "title": "Hỗ trợ"
         },
         {
@@ -135,7 +135,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.0.1",
+          "title": "1.0",
           "useBoldText": true,
           "useBottomMargin": false
         },

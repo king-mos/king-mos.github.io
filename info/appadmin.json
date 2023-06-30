@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói phụ trợ với 1 số tinh chỉnh.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Quản trị viên ứng dụng sẽ cho phép bạn hạ cấp bất kỳ ứng dụng nào từ AppStore bằng cách chỉ cần giữ nút Tải xuống hoặc Mở hoặc biểu tượng đám mây và chọn “Hạ cấp”</p>",
           "useRawFormat": true
         },
         {
@@ -64,17 +64,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Baw Appie",
+          "text": "UnlimApps Inc.",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0.1",
+          "text": "1.0r-101",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.x",
+          "text": "7.0 - Trở nên",
           "title": "Hỗ trợ"
         },
         {
@@ -135,7 +135,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.0.1",
+          "title": "1.0r-101",
           "useBoldText": true,
           "useBottomMargin": false
         },

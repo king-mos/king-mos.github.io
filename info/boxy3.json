@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói phụ trợ với 1 số tinh chỉnh.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Tùy chỉnh màn hình của bạn theo ý muốn với Boxy 3. </p>\n<p style=\"font-size:10pt;\">Tinh chỉnh này hoàn toàn tương thích với tất cả các thiết bị iOS 11 và 12. </p>\n<p style=\"font-size:10pt;\">Với Boxy, bạn có thể tùy chỉnh lưới biểu tượng, đặt số lượng biểu tượng mong muốn trong hàng, cột và thanh công cụ, đặt khoảng cách mong muốn giữa biểu tượng, vị trí của chúng và các cài đặt khác.</p>",
           "useRawFormat": true
         },
         {
@@ -37,7 +37,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/data/tweaks.png"
+              "url": "https://tqm-mos.com/info/boxy3/screenshots/1.png"
             }
           ]
         },
@@ -64,17 +64,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Baw Appie",
+          "text": "William Vabrinskas",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0.1",
+          "text": "3.6.2",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.x",
+          "text": "11.0 - 12.x",
           "title": "Hỗ trợ"
         },
         {
@@ -135,13 +135,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.0.1",
+          "title": "3.6.2",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
           "useRawFormat": true
         }
       ]

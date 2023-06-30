@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói phụ trợ với 1 số tinh chỉnh.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> A-Bypass là một công cụ giúp chặn một số ứng dụng truy cập không gian trái phép hoặc gọi các chức năng không được Apple cho phép do bẻ khóa.</p>\n<p style=\"font-size:10pt;\">Đây không phải là sự cố bảo mật nghiêm trọng đối với thiết bị của bạn nhưng một số ứng dụng chặn bạn sử dụng ứng dụng hoặc gặp bất lợi.</p>\n<p style=\"font-size:10pt;\">Với A-Bypass, bạn có thể chặn quyền truy cập vào các chức năng và dung lượng lưu trữ trái phép để khôi phục quyền truy cập vào ứng dụng của mình và phản hồi trước để tránh mọi hình phạt.</p>",
           "useRawFormat": true
         },
         {
@@ -69,12 +69,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.0.1",
+          "text": "1.5.8",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.x",
+          "text": "15.0 - Trở nên",
           "title": "Hỗ trợ"
         },
         {
@@ -135,13 +135,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.0.1",
+          "title": "1.5.8",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
           "useRawFormat": true
         }
       ]

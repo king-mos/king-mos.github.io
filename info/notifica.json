@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói phụ trợ với 1 số tinh chỉnh.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> tùy chỉnh thông báo</p>",
           "useRawFormat": true
         },
         {
@@ -37,7 +37,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/data/tweaks.png"
+              "url": "https://tqm-mos.com/info/notifica/screenshots/1.png"
             }
           ]
         },
@@ -64,7 +64,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Baw Appie",
+          "text": "Nepeta & BawAppie",
           "title": "Tác giả"
         },
         {
@@ -74,7 +74,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.x",
+          "text": "11.0 - 16.0",
           "title": "Hỗ trợ"
         },
         {
@@ -141,7 +141,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
           "useRawFormat": true
         }
       ]
