@@ -69,7 +69,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "108.0",
+          "text": "112.0",
           "title": "Phiên bản"
         },
         {
@@ -89,7 +89,7 @@
           "spacing": 16
         },
         {
-          "action": "https://www.facebook.com/tranquangminh2202",
+          "action": "https://www.facebook.com/quangminhios",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Facebook (@quangminh)",
           "openExternal": true
@@ -135,7 +135,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "108.0",
+          "title": "112.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
