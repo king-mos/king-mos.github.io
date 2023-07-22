@@ -203,10 +203,20 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Liên Quân Hack",
+            "appName": "Liên Quân Hack V1",
             "appVersion": "1.51.1.2",
             "appImage": "https://play-lh.googleusercontent.com/S3GPwY1-mc5876ZnMk65-VrG3Xlh1R8zgK-Q_LlnbjZ7llyyv0ZGWIlNnBM7LckMMzYy",
             "appPackage": "https://archive.org/download/lol-TQM/lol-TQM.ipa",
+            "appDescription": "Liên Quân Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Liên Quân Hack V2",
+            "appVersion": "1.51.1.2",
+            "appImage": "https://play-lh.googleusercontent.com/S3GPwY1-mc5876ZnMk65-VrG3Xlh1R8zgK-Q_LlnbjZ7llyyv0ZGWIlNnBM7LckMMzYy",
+            "appPackage": "https://archive.org/download/tqmlq-jb/TQMLQ-JB.ipa",
             "appDescription": "Liên Quân Hack ios10 Trở nên | All Devices"
         },
 
