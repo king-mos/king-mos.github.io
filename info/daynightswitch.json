@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Chỉ cần thay đổi phông chữ trên thiết bị của bạn bằng A-Font. </p>\n<p style=\"font-size:10pt;\"> A-Font tự động tải phông chữ từ /Library/A-Font/ </p>\n<p style=\"font-size:10pt;\"> Tinh chỉnh này chứa phông chữ Nanum Square Round của NAVER.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Bật tắt icon kiểu mới.</p>",
           "useRawFormat": true
         },
         {
@@ -37,7 +37,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/afont/screenshots/1.png"
+              "url": "https://tqm-mos.com/info/daynightswitch/screenshots/1.gif"
             }
           ]
         },
@@ -64,17 +64,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Baw Appie",
+          "text": "Finn Gaida",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.10",
+          "text": "1.0.2",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.0",
+          "text": "9.0 - 15.x",
           "title": "Hỗ trợ"
         },
         {
@@ -135,7 +135,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.10",
+          "title": "1.0.2",
           "useBoldText": true,
           "useBottomMargin": false
         },

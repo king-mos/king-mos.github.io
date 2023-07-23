@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Chỉ cần thay đổi phông chữ trên thiết bị của bạn bằng A-Font. </p>\n<p style=\"font-size:10pt;\"> A-Font tự động tải phông chữ từ /Library/A-Font/ </p>\n<p style=\"font-size:10pt;\"> Tinh chỉnh này chứa phông chữ Nanum Square Round của NAVER.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Cài đặt theo cách của bạn.</p>\n<p style=\"font-size:10pt;\">Thêm hình ảnh vào cài đặt.</p>",
           "useRawFormat": true
         },
         {
@@ -37,7 +37,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/afont/screenshots/1.png"
+              "url": "https://tqm-mos.com/info/bettersettings/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://tqm-mos.com/info/bettersettings/screenshots/2.png"
             }
           ]
         },
@@ -64,17 +68,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Baw Appie",
+          "text": "midnightchips",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.10",
+          "text": "0.1.3",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.0",
+          "text": "11.0 - 15.x",
           "title": "Hỗ trợ"
         },
         {
@@ -135,7 +139,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.10",
+          "title": "0.1.3",
           "useBoldText": true,
           "useBottomMargin": false
         },

@@ -89,13 +89,13 @@
           "spacing": 16
         },
         {
-          "action": "https://www.facebook.com/tranquangminh2202",
+          "action": "https://www.facebook.com/quangminhios",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Facebook (@quangminh)",
           "openExternal": true
         },
         {
-          "action": "https://twitter.com/aminhdz",
+          "action": "https://twitter.com/ahminhdz",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Twitter (@tqmmos)",
           "openExternal": true
