@@ -73,6 +73,56 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "VPN.Lat",
+            "appVersion": "2.0",
+            "appImage": "https://play-lh.googleusercontent.com/MZj1-PzNV5A7gzz28mfPZb2sqd6djGvTntOlpnymhBjZJTr_ZcLQ8jHHHrIwKSOXt_4=w480-h960",
+            "appPackage": "https://archive.org/download/vpnlat-tqm/VPNlat-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Stitch It!",
+            "appVersion": "2.5.7",
+            "appImage": "https://play-lh.googleusercontent.com/0TprUWQD4hkStWVCjs7mGSv4mjcYg68vbwDcpmdh20Vkigc1H2JJWbObI3Hb34mt1Wpc=w480-h960",
+            "appPackage": "https://archive.org/download/stitch-tqm/Stitch-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Secret Photo",
+            "appVersion": "3.2",
+            "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/31/ee/e931eed7-49ed-5ee4-b198-341401641fd2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+            "appPackage": "https://archive.org/download/secret-photo-tqm/SecretPhoto-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Garage Ringtones",
+            "appVersion": "3.0",
+            "appImage": "https://play-lh.googleusercontent.com/LH4SsW6zoQ8Fz1Yfw7da2b9sikUm0LOlXoQ3-eqJCUoOvanaWhg2xipl1bRHZbCg_jI=w480-h960",
+            "appPackage": "https://archive.org/download/garage-ringtones-tqm/GarageRingtones-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Cross DJ Pro",
+            "appVersion": "3.7.1",
+            "appImage": "https://play-lh.googleusercontent.com/uVKVJvfZvtQ6jDSkBMyM9RVH6fbLs6esniFc-b8q-L11uGHn_CGkX1tZDYwEtPyDhg=w480-h960",
+            "appPackage": "https://archive.org/download/cross-djpro-tqm/CrossDJPro-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Dungeon Survivor",
             "appVersion": "2.9.7",
             "appImage": "https://play-lh.googleusercontent.com/aNn703sPVGjQuIf7BbYmHYjzpDJwfap_aV2V9MzoFkBajCyQGkk7t430LeDqZfzlWhg=w480-h960",
@@ -244,7 +294,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "InShot Premium",
-            "appVersion": "1.69.1",
+            "appVersion": "1.70.2",
             "appImage": "https://play-lh.googleusercontent.com/2i0pfCrsRNWr_OOfuUOBwE0_iIRxeV7lhxUmS1NHwVa_wdF72o8uW_NGWNwdoY1Q9g=w480-h960",
             "appPackage": "https://archive.org/download/in-shot-tqm_202306/InShot-TQM.ipa",
             "appDescription": "Mở khóa tất cả các tính năng cao cấp miễn phí ✅"
@@ -844,7 +894,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 2",
-            "appVersion": "423.0",
+            "appVersion": "424.0",
             "appImage": "https://tqm-mos.com/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-2-tqm/Facebook2-TQM.ipa",
             "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
@@ -854,7 +904,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 3",
-            "appVersion": "423.0",
+            "appVersion": "424.0",
             "appImage": "https://tqm-mos.com/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-tqm/Facebook-TQM.ipa",
             "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
@@ -864,7 +914,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 4",
-            "appVersion": "423.0",
+            "appVersion": "424.0",
             "appImage": "https://tqm-mos.com/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-4_20220823/Facebook4.ipa",
             "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
@@ -874,7 +924,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 5",
-            "appVersion": "423.0",
+            "appVersion": "424.0",
             "appImage": "https://tqm-mos.com/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-5_202208/Facebook5.ipa",
             "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
@@ -884,7 +934,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Facebook 6",
-            "appVersion": "423.0",
+            "appVersion": "424.0",
             "appImage": "https://tqm-mos.com/js/img/fb.png",
             "appPackage": "https://archive.org/download/facebook-6_202208/Facebook6.ipa",
             "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
@@ -924,7 +974,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 2",
-            "appVersion": "23.06.02",
+            "appVersion": "23.07.1",
             "appImage": "https://tqm-mos.com/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-2-tqm/Zalo2-TQM.ipa",
             "appDescription": "Zalo 2 For ios10 Trở nên | All Devices"
@@ -934,7 +984,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 3",
-            "appVersion": "23.06.02",
+            "appVersion": "23.07.1",
             "appImage": "https://tqm-mos.com/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-3/Zalo3.ipa",
             "appDescription": "Zalo 3 For ios10 Trở nên | All Devices"
@@ -944,7 +994,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 4",
-            "appVersion": "23.06.02",
+            "appVersion": "23.07.1",
             "appImage": "https://tqm-mos.com/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-4/Zalo4.ipa",
             "appDescription": "Zalo 4 For ios10 Trở nên | All Devices"
@@ -954,7 +1004,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 5",
-            "appVersion": "23.06.02",
+            "appVersion": "23.07.1",
             "appImage": "https://tqm-mos.com/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-5/Zalo5.ipa",
             "appDescription": "Zalo 5 For ios10 Trở nên | All Devices"
@@ -964,7 +1014,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Zalo 6",
-            "appVersion": "23.06.02",
+            "appVersion": "23.07.1",
             "appImage": "https://tqm-mos.com/js/img/zalo.png",
             "appPackage": "https://archive.org/download/zalo-6/Zalo6.ipa",
             "appDescription": "Zalo 6 For ios10 Trở nên | All Devices"
@@ -1174,7 +1224,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Instagram++",
-            "appVersion": "290.1",
+            "appVersion": "292.1",
             "appImage": "https://tqm-mos.com/js/img/ig.png",
             "appPackage": "https://archive.org/download/instageram-TQM/instageram-TQM.ipa",
             "appDescription": "Instagram++ For ios10 Trở nên | All Devices"
@@ -1194,7 +1244,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "TikTok No Logo",
-            "appVersion": "30.3.0",
+            "appVersion": "30.4.0",
             "appImage": "https://tqm-mos.com/js/img/tiktok.png",
             "appPackage": "https://archive.org/download/tik-tok-tqm/TikTok-TQM.ipa",
             "appDescription": "Tải xuống phương tiện không có hình mờ, Thay đổi vị trí, Bật toàn màn hình, Nhiều tính năng khác, Thông báo/Liên kết hỗ trợ(Dành cho người dùng Trollstore)"
@@ -1504,7 +1554,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "Subway Surfers",
-            "appVersion": "3.14.0",
+            "appVersion": "3.15.0",
             "appImage": "https://tqm-mos.com/js/img/subwaysurfers.png",
             "appPackage": "https://archive.org/download/subway-surf-tqm/SubwaySurf-TQM.ipa",
             "appDescription": "Không giới hạn mọi thứ,Đã bật nhiều bước nhảy"
