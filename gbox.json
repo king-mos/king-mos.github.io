@@ -207,7 +207,7 @@
             "appVersion": "1.51.1.2",
             "appImage": "https://play-lh.googleusercontent.com/S3GPwY1-mc5876ZnMk65-VrG3Xlh1R8zgK-Q_LlnbjZ7llyyv0ZGWIlNnBM7LckMMzYy",
             "appPackage": "https://archive.org/download/lol-TQM/lol-TQM.ipa",
-            "appDescription": "Liên Quân Hack ios10 Trở nên | All Devices"
+            "appDescription": "Hack maps / Hiện bổ trợ - yêu cầu xoá liên quân bản gốc | All Devices"
         },
 
         {
@@ -217,7 +217,7 @@
             "appVersion": "1.51.1.2",
             "appImage": "https://play-lh.googleusercontent.com/S3GPwY1-mc5876ZnMk65-VrG3Xlh1R8zgK-Q_LlnbjZ7llyyv0ZGWIlNnBM7LckMMzYy",
             "appPackage": "https://archive.org/download/tqmlq-jb/TQMLQ-JB.ipa",
-            "appDescription": "Liên Quân Hack ios10 Trở nên | All Devices"
+            "appDescription": "Hack maps / Hiện bổ trợ / Fix lag FPS / Hiện Unti - yêu cầu xoá liên quân bản gốc | All Devices"
         },
 
         {
@@ -1223,31 +1223,11 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "YouNoAds TQM",
-            "appVersion": "17.32.2",
-            "appImage": "https://tqm-mos.com/js/img/yt.png",
-            "appPackage": "https://archive.org/download/ytnoads-TQM/ytnoads-TQM.ipa",
-            "appDescription": "Youtube No ads For ios10 Trở nên | All Devices"
-        },
-
-        {
-            "appType": "ENT_SIGN",
-            "appCateIndex": 0,
-            "appName": "DLTube TQM",
-            "appVersion": "17.32.2",
-            "appImage": "https://tqm-mos.com/js/img/yt.png",
-            "appPackage": "https://archive.org/download/dltube-tqm/DLTubeTQM.ipa",
-            "appDescription": "Youtube No ads For ios10 Trở nên | All Devices"
-        },
-
-        {
-            "appType": "ENT_SIGN",
-            "appCateIndex": 0,
-            "appName": "uYou ( PiP )",
+            "appName": "Youtube Cercube",
             "appVersion": "18.15.1",
             "appImage": "https://tqm-mos.com/js/img/yt.png",
             "appPackage": "https://archive.org/download/uyou-TQM/uyou-TQM.ipa",
-            "appDescription": "Youtube No ads For ios10 Trở nên | All Devices"
+            "appDescription": "Youtube No ads For ios14 Trở nên | All Devices"
         },
 
         {
