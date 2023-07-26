@@ -63,6 +63,76 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "Photo Lab Pro",
+            "appVersion": "3.11.39",
+            "appImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrE8FTCG5t8IWHaHvtATpgQrAbVdz4M2DQw&usqp=CAU",
+            "appPackage": "https://archive.org/download/photo-lab-pro-tqm-mos/PhotoLabPRO-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Dualspace",
+            "appVersion": "1.0",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/69/89/2e/69892e94-e7eb-e28f-bc2b-bc4c93aabffb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+            "appPackage": "https://archive.org/download/dualspace-TQM/dualspace-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Zooba",
+            "appVersion": "4.16.3",
+            "appImage": "https://play-lh.googleusercontent.com/yfzJQY_0fZh8beIWNuIMs48iZJA_sHA9JyWopbeWyane9w97f7K27jL32rtV2EjEFQ=w480-h960",
+            "appPackage": "https://archive.org/download/zooba-tqm/Zooba-TQM.ipa",
+            "appDescription": "Hack bản đồ, Cho phép bắn trong nước"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "ToonMe",
+            "appVersion": "0.10.41",
+            "appImage": "https://is5--ssl-mzstatic-com.cdn.ampproject.org/i/s/is5-ssl.mzstatic.com/image/thumb/Purple116/v4/07/63/a2/0763a23b-949d-237a-6bd8-c9431cb574eb/ToonMe-AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+            "appPackage": "https://archive.org/download/toon-me-tqm/ToonMe-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Peachy",
+            "appVersion": "1.38.0",
+            "appImage": "https://image.winudf.com/v2/image1/Y29tLnNpa3dsMy5wZWFjaHlmYWNlYm9keWVkaXRvcmd1aWRlX2ljb25fMTYyNDA4NTUzM18wNDI/icon.png?fakeurl=1&h=240&type=webp",
+            "appPackage": "https://archive.org/download/peachy-tqm/Peachy-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WPS Office"
+            "appVersion": "11.35.0",
+            "appImage": "https://store-images.s-microsoft.com/image/apps.61529.14368399110871650.9a2dde43-23d4-4513-8cd6-af7364ed0a1a.76af989f-8a85-4cb3-b44f-d7263eea4e40?w=120",
+            "appPackage": "https://archive.org/download/wpsoffice-tqm/WPSOffice-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Wipr"
+            "appVersion": "1.43",
+            "appImage": "https://maclife.io/wp-content/uploads/2020/03/WIPR-CHO-MAC.png",
+            "appPackage": "https://archive.org/download/wipr-tqm/Wipr-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Family Island",
             "appVersion": "2023156.2.32642",
             "appImage": "https://play-lh.googleusercontent.com/QS2VFmklHq2tRP6mnyF6ie3lgPQJQwndW7mFKPbvAQXk6veDhpMYPSWdnN5YCgBpzzb7",
@@ -374,7 +444,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "PUBG Mobile",
-            "appVersion": "2.6.1",
+            "appVersion": "2.7.0",
             "appImage": "https://play-lh.googleusercontent.com/GfWFn7AvHjD2ApE4aL6cATwxh0FBXZg6fqdHuswTWHDvx-j8yiYXkVXigmILVkvDe8Y=w480-h960",
             "appPackage": "https://archive.org/download/pubg-tqm/PUBG-TQM.ipa",
             "appDescription": "PUBG Mobile - Hack xoá cỏ , ăngten , chạy nhanh ...."
@@ -1517,7 +1587,7 @@
             "appVersion": "8.1.1",
             "appImage": "https://tqm-mos.com/js/img/lr.png",
             "appPackage": "https://archive.org/download/lightroom-TQM/lightroom-TQM.ipa",
-            "appDescription": "Lightroom For ios10 Trở nên | All Devices"
+            "appDescription": "Lightroom mở khoá tính năng Premium | All Devices"
         },
 
         {
@@ -1527,7 +1597,7 @@
             "appVersion": "1.9.2",
             "appImage": "https://tqm-mos.com/js/img/lightleap.png",
             "appPackage": "https://archive.org/download/lightleap-tqm/Lightleap-TQM.ipa",
-            "appDescription": "LighLeap For ios10 Trở nên | All Devices"
+            "appDescription": "LighLeap mở khoá tính năng Premium | All Devices"
         },
 
         {
@@ -1537,7 +1607,7 @@
             "appVersion": "22.15.0",
             "appImage": "https://tqm-mos.com/js/img/adope.png",
             "appPackage": "https://archive.org/download/adope-TQM/adope-TQM.ipa",
-            "appDescription": "AdobePS Premium For ios10 Trở nên | All Devices"
+            "appDescription": "AdobePS Premium mở khoá tính năng Premium | All Devices"
         },
 
         {

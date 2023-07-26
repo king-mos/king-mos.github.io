@@ -296,6 +296,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.com/plist/phôtlabpro.plist</loc>
+   <lastmod>2023-07-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.com/plist/capcut.plist</loc>
    <lastmod>2023-06-29</lastmod>
    <changefreq>weekly</changefreq>
@@ -787,7 +792,7 @@
   </url>
   <url>
    <loc>https://tqm-mos.com/Tab/Fonts.html</loc>
-   <lastmod>2023-07-23</lastmod>
+   <lastmod>2023-07-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -931,6 +936,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.com/Tab/nav/f1.png</loc>
+   <lastmod>2023-07-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.com/Tab/nav/12.png</loc>
    <lastmod>2023-06-29</lastmod>
    <changefreq>weekly</changefreq>
@@ -943,6 +953,11 @@
   <url>
    <loc>https://tqm-mos.com/Tab/nav/39.png</loc>
    <lastmod>2023-06-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.com/Tab/nav/f2.png</loc>
+   <lastmod>2023-07-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -961,7 +976,17 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.com/Tab/nav/f3.png</loc>
+   <lastmod>2023-07-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.com/Tab/nav/search.png</loc>
+   <lastmod>2023-06-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.com/Tab/nav/1234567898D64C061-9318-4C70-97A4-B04F3F5DA320.png</loc>
    <lastmod>2023-06-29</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -8021,6 +8046,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-mos.com/.git/objects/3b/fd7bde129547fd262afdb20ac9081693519418</loc>
+   <lastmod>2023-07-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-mos.com/.git/objects/3b/025656b28534d9704343936a73432f5e95e72d</loc>
    <lastmod>2023-07-23</lastmod>
    <changefreq>weekly</changefreq>
@@ -10028,6 +10058,11 @@
   <url>
    <loc>https://tqm-mos.com/.git/objects/e5/b84e11212179e781eaf1438b48b8c4b42d65ae</loc>
    <lastmod>2023-07-20</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.com/.git/objects/e5/5cb69bdeebff687bb86c3139f957755d8f62a7</loc>
+   <lastmod>2023-07-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -12978,6 +13013,11 @@
   <url>
    <loc>https://tqm-mos.com/.git/objects/09/ea6c7ae277ffbbd860916ede726dd6ef80b7dc</loc>
    <lastmod>2023-06-29</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.com/.git/objects/5d/1e7be503552799fe523945587cf5e1ca50aa6b</loc>
+   <lastmod>2023-07-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -16848,6 +16888,11 @@
   <url>
    <loc>https://tqm-mos.com/.git/objects/15/b7db5e23e55ab0bd2e52bd7f552b1d19b57c64</loc>
    <lastmod>2023-07-25</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-mos.com/.git/objects/15/b151f45b4e06ce6ce687a3bf54fe6b8643d63d</loc>
+   <lastmod>2023-07-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
