@@ -123,7 +123,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "Wipr"
+            "appName": "Wipr",
             "appVersion": "1.43",
             "appImage": "https://maclife.io/wp-content/uploads/2020/03/WIPR-CHO-MAC.png",
             "appPackage": "https://archive.org/download/wipr-tqm/Wipr-TQM.ipa",
