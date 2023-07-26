@@ -113,7 +113,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appName": "WPS Office"
+            "appName": "WPS Office",
             "appVersion": "11.35.0",
             "appImage": "https://store-images.s-microsoft.com/image/apps.61529.14368399110871650.9a2dde43-23d4-4513-8cd6-af7364ed0a1a.76af989f-8a85-4cb3-b44f-d7263eea4e40?w=120",
             "appPackage": "https://archive.org/download/wpsoffice-tqm/WPSOffice-TQM.ipa",
