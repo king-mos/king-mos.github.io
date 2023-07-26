@@ -83,6 +83,16 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "Crop Size",
+            "appVersion": "4.6.5",
+            "appImage": "https://tqm-mos.com/js/img/crop.png",
+            "appPackage": "https://archive.org/download/crop-size-tqm/CropSize-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Zooba",
             "appVersion": "4.16.3",
             "appImage": "https://play-lh.googleusercontent.com/yfzJQY_0fZh8beIWNuIMs48iZJA_sHA9JyWopbeWyane9w97f7K27jL32rtV2EjEFQ=w480-h960",
