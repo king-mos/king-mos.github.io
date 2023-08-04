@@ -113,6 +113,16 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "1998 Cam",
+            "appVersion": "1.9.3",
+            "appImage": "https://tqm-mos.com/js/img/1998.png",
+            "appPackage": "https://archive.org/download/1998-cam-tqm/1998Cam-TQM.ipa",
+            "appDescription": "1998 Cam mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Zooba",
             "appVersion": "4.17.1",
             "appImage": "https://play-lh.googleusercontent.com/yfzJQY_0fZh8beIWNuIMs48iZJA_sHA9JyWopbeWyane9w97f7K27jL32rtV2EjEFQ=w480-h960",
