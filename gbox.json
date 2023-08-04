@@ -924,10 +924,30 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "My Fonts",
-            "appVersion": "1.10.6",
+            "appVersion": "1.10.8",
             "appImage": "https://ipalibrary.me/wp-content/uploads/2023/01/WDBFontOverwrite.png",
             "appPackage": "https://tqm-ios.github.io/ipa/Fonts-TQM.ipa",
             "appDescription": "Fonts For ios14.0-16.1.2 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "My Fonts A12+",
+            "appVersion": "1.10.8",
+            "appImage": "https://ipalibrary.me/wp-content/uploads/2023/01/WDBFontOverwrite.png",
+            "appPackage": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.2.0/KFDFontOverwriteNon14Pro.ipa",
+            "appDescription": "Fonts For ios14.0-16.6b | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "My Fonts A16",
+            "appVersion": "1.10.8",
+            "appImage": "https://ipalibrary.me/wp-content/uploads/2023/01/WDBFontOverwrite.png",
+            "appPackage": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.2.0/KFDFontOverwrite14Pro.ipa",
+            "appDescription": "Fonts For ios14.0-16.6b | All Devices"
         },
 
         {
