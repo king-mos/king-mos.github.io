@@ -129,7 +129,7 @@ margin-bottom: 0px;
 font-weight: 600;
 font-size: 17px;
 color:#008080;
-box-shadow: 0px 0px 10px #77325a;
+box-shadow: 0px 0px 10px #00CC99;
 
 }
 User Agent Style Sheeth3 {
@@ -188,7 +188,7 @@ text-align: center;
 font-family: 'Open Sans Condensed', sans-serif;
 text-decoration: none;
 isolation: isolate; 
-box-shadow: 0px 0px 10px #77325a;
+box-shadow: 0px 0px 10px #00CC99;
 }
 
 .get-btn2 {
@@ -240,6 +240,7 @@ text-align: justify;
 margin-top: 2px;
 margin-bottom: 3px;
 margin-left: 65px;
+text-shadow: 0px 0px 10px #FFFF33;
 }
 
 .app-info h3 {
@@ -250,6 +251,7 @@ text-align: justify;
 margin-top: 6px;
 margin-bottom: 0px;
 margin-left: 65px;
+text-shadow: 0px 0px 30px #0099CC;
 }
 
 
@@ -293,6 +295,7 @@ color: #444444;
 text-decoration: none;
 -webkit-tap-highlight-color: transparent;
 transition: background-color 0.1s ease-in-out;
+text-shadow: 0px 0px 10px #FFFF33;
 }
 
 .navtxt1 {
@@ -312,11 +315,13 @@ h2{
 font-family: 'Open Sans Condensed', sans-serif;
 padding-left:10px;
 isolation: isolate; 
+text-shadow: 0px 0px 10px #FFFF33;
 }
 
 h3{
 font-family: 'Open Sans Condensed', sans-serif;
 color:#000;
+text-shadow: 0px 0px 10px #FFCCFF;
 }
 
 h33{
@@ -325,6 +330,7 @@ color:red;
 font-size: 17px;
 font-weight: bold;
 isolation: isolate; 
+text-shadow: 0px 0px 10px #FFFF33;
 }
 
 p{
@@ -339,6 +345,7 @@ color:red;
 font-size: 13.5px;
 font-weight: bold;
 isolation: isolate;
+text-shadow: 0px 0px 10px #FFFF33;
 }
 
 h66{
@@ -347,6 +354,7 @@ color:#008080;
 font-size: 13.5px;
 font-weight: bold;
 isolation: isolate;
+text-shadow: 0px 0px 10px #FFFF33;
 }
 
 h1{
@@ -354,6 +362,7 @@ font-family: 'Open Sans Condensed', sans-serif;
 font-weight: bold;
 padding-left:10px;
 color:#000;
+text-shadow: 0px 0px 35px #111;
 }
 
 
@@ -442,7 +451,7 @@ height:100%;
 background:rgba(0,0,0,0.8);
 z-index:1;
 display:none;
-box-shadow: 0px 0px 10px #77325a;
+box-shadow: 0px 0px 10px #111;
 }
 
 .tbpopup .tbcontent {
@@ -460,7 +469,7 @@ font-family:"Open Sans",sans-serif;
 border-radius:20px;
 display: block;
 position: fixed;
-box-shadow:0px 0px 10px #111;
+box-shadow: 0px 0px 10px #111;
 }
 @media (max-width: 700px) {
 .tbpopup .tbcontent {width:90%;}
