@@ -93,6 +93,26 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "Monokai Toolkit",
+            "appVersion": "3.1",
+            "appImage": "https://tqm-mos.com/js/img/mono.png",
+            "appPackage": "https://archive.org/download/monokai-toolkit-tqm/MonokaiToolkit-TQM.ipa",
+            "appDescription": "Monokai Toolkit no ADS"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Pure Tube Pro",
+            "appVersion": "1.2",
+            "appImage": "https://tqm-mos.com/js/img/pure.png",
+            "appPackage": "https://archive.org/download/pure-tube-pro-tqm/PureTubePro-TQM.ipa",
+            "appDescription": "Pure Tube Pro mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "Zooba",
             "appVersion": "4.17.1",
             "appImage": "https://play-lh.googleusercontent.com/yfzJQY_0fZh8beIWNuIMs48iZJA_sHA9JyWopbeWyane9w97f7K27jL32rtV2EjEFQ=w480-h960",
