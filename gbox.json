@@ -393,8 +393,18 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appName": "Liên Quân AIM",
+            "appVersion": "1.51.1.2",
+            "appImage": "https://play-lh.googleusercontent.com/S3GPwY1-mc5876ZnMk65-VrG3Xlh1R8zgK-Q_LlnbjZ7llyyv0ZGWIlNnBM7LckMMzYy",
+            "appPackage": "https://archive.org/download/tqmlq-jb/TQMLQ-JB.ipa",
+            "appDescription": "Hack maps / Maps gần / Maps xa / Maps siêu xa / Hiện bổ trợ / Hiện avatar / Hiện tên cấm chọn / AIM - yêu cầu xoá liên quân bản gốc | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
             "appName": "FreeFire Hack",
-            "appVersion": "1.99.1",
+            "appVersion": "1.100.1",
             "appImage": "https://tqm-mos.com/js/img/freefire.png",
             "appPackage": "https://archive.org/download/freefire-TQM/freefire-TQM.ipa",
             "appDescription": "Xoá sương mù / Xoá cỏ / Hỗ trợ nhắm mục tiêu / Tầm nhìn của bạn sẽ theo dõi kẻ thù"

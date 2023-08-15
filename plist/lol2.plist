@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ipa.github.io/icon/dangtai.png</string>
+					<string>http://tqm-mos.com/icon/dangtai.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ipa.github.io/icon/lol.png</string>
+					<string>http://tqm-mos.com/icon/lol.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm..ios.lol</string>
+				<string>com.tqm-mos.kgvnaim</string>
 				<key>bundle-version</key>
 				<string>1.51.1.2</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>LOL TQM</string>
+				<string>LOL AIM TQM</string>
 			</dict>
 		</dict>
 	</array>
