@@ -59,85 +59,6 @@
 <a href="https://t.me/tqmmosvip" target="_blank" class="fa fa-telegram"></a>
 <a href="https://www.paypal.me/tranquangminh2202" target="_blank" class="fa fa-paypal"></a>
 
-  <div id="paypal-button-container"></div>
-  <script
-    data-sdk-integration-source="integrationbuilder_sc"
-    src="https://www.paypal.com/sdk/js?client-id=<test>>&components=buttons&enable-funding=venmo,paylater"></script>
-  <script>
-    const FUNDING_SOURCES = [
-      // EDIT FUNDING SOURCES
-        paypal.FUNDING.PAYPAL,
-        paypal.FUNDING.PAYLATER,
-        paypal.FUNDING.VENMO,
-        paypal.FUNDING.CARD
-    ];
-    FUNDING_SOURCES.forEach(fundingSource => {
-      paypal.Buttons({
-        fundingSource,
-
-        style: {
-          layout: 'vertical',
-          shape: 'rect',
-          color: (fundingSource == paypal.FUNDING.PAYLATER) ? 'gold' : '',
-        },
-
-        createOrder: async (data, actions) => {
-          try {
-            const response = await fetch("http://localhost:9597/orders", {
-              method: "POST"
-            });
-
-            const details = await response.json();
-            return details.id;
-          } catch (error) {
-            console.error(error);
-            // Handle the error or display an appropriate error message to the user
-          }
-        },
-
-        
-
-        onApprove: async (data, actions) => {
-          try {
-            const response = await fetch(`http://localhost:9597/orders/${data.orderID}/capture`, {
-              method: "POST"
-            });
-
-            const details = await response.json();
-            // Three cases to handle:
-            //   (1) Recoverable INSTRUMENT_DECLINED -> call actions.restart()
-            //   (2) Other non-recoverable errors -> Show a failure message
-            //   (3) Successful transaction -> Show confirmation or thank you message
-
-            // This example reads a v2/checkout/orders capture response, propagated from the server
-            // You could use a different API or structure for your 'orderData'
-            const errorDetail = Array.isArray(details.details) && details.details[0];
-
-            if (errorDetail && errorDetail.issue === 'INSTRUMENT_DECLINED') {
-              return actions.restart();
-              // https://developer.paypal.com/docs/checkout/integration-features/funding-failure/
-            }
-
-            if (errorDetail) {
-              let msg = 'Sorry, your transaction could not be processed.';
-              msg += errorDetail.description ? ' ' + errorDetail.description : '';
-              msg += details.debug_id ? ' (' + details.debug_id + ')' : '';
-              alert(msg);
-            }
-
-            // Successful capture! For demo purposes:
-            console.log('Capture result', details, JSON.stringify(details, null, 2));
-            const transaction = details.purchase_units[0].payments.captures[0];
-            alert('Transaction ' + transaction.status + ': ' + transaction.id + 'See console for all available details');
-          } catch (error) {
-            console.error(error);
-            // Handle the error or display an appropriate error message to the user
-          }
-        },
-      }).render("#paypal-button-container");
-    })
-  </script>
-
 <br><br><br>
 
 <h33>[ Chứng Chỉ Mới Nhất Đã Cập Nhật ]</h33>
@@ -192,7 +113,7 @@ function myFunction() {
 <br>
 <div data-mndbanid="04be953a-ef30-42c5-863b-37c994d98402"></div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 20px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Gói Trả Phí !</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 20px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Gói Trả Phí !</h1>
           </div>
         </div>
 <h55>Khách hàng đã mua Gói Chứng Chỉ !</h55><br>
@@ -232,7 +153,7 @@ function myFunction() {
           </div>
         </div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 20px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Ứng dụng mới !</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 20px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Ứng Dụng Mới !</h1>
           </div>
         </div>
 
@@ -658,7 +579,7 @@ function myFunction() {
 
 <div data-mndazid="dac60d00-4fab-4a2b-b8dd-a9988fa71f62"></div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 20px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Tools Sign !</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 20px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Tools Sign !</h1>
           </div>
         </div>
 
@@ -817,7 +738,7 @@ function myFunction() {
 
 <div data-mndbanid="04be953a-ef30-42c5-863b-37c994d98402"></div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 20px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">TrollTools !</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 20px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">TrollTools !</h1>
           </div>
         </div>
 
@@ -979,7 +900,7 @@ function myFunction() {
 
 <div data-mndazid="6cde5d16-a676-4a85-93ff-7b2ee0bee95e"></div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">AppSync Unified Jailbreak !</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">AppSync Unified Jailbreak !</h1>
           </div>
         </div>
 
@@ -999,7 +920,7 @@ function myFunction() {
 
 <div data-mndbanid="04be953a-ef30-42c5-863b-37c994d98402"></div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Tools Jailbreak !</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Tools Jailbreak !</h1>
           </div>
         </div>
 
@@ -1401,7 +1322,7 @@ function myFunction() {
 
 <div data-mndbanid="04be953a-ef30-42c5-863b-37c994d98402"></div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Ứng dụng Clone !</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Ứng Dụng Clone !</h1>
           </div>
         </div>
 
@@ -1647,7 +1568,7 @@ function myFunction() {
 
 <div data-mndbanid="04be953a-ef30-42c5-863b-37c994d98402"></div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Tweaks Apps++</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Tweaks Apps++</h1>
           </div>
         </div>
 
@@ -2099,7 +2020,7 @@ function myFunction() {
 
 <div data-mndazid="dac60d00-4fab-4a2b-b8dd-a9988fa71f62"></div>
 
-<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(100deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Games++</h1>
+<h1 class="header" style="isolation: isolate; text-align:left;margin-top: 40px;background: linear-gradient(180deg, #008080, #FF6699);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-size: 28px;">Games++</h1>
           </div>
         </div>
 
