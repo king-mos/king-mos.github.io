@@ -12,7 +12,7 @@ backdrop-filter: saturate(180%) blur(20px);
 background: rgba(0, 0, 0, 0);
 display: flex;
 overflow-x: auto;
-box-shadow: 0px 0px 10px #77325a;
+box-shadow: 0px 0px 30px #77325a;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,7 +35,7 @@ backdrop-filter: saturate(180%) blur(20px);
 background: rgba(0, 0, 0, 0.7);
 display: flex;
 overflow-x: auto;
-box-shadow: 0px 0px 10px #77325a;
+box-shadow: 0px 0px 30px #77325a;
 }
 }
 
