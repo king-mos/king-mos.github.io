@@ -1,0 +1,2013 @@
+{
+    "version": "1.0",
+    "sourceName": "TQM - Store",
+    "sourceAuthor": "tqmmos",
+    "sourceLinkTitle": "Trang chủ",
+    "sourceLinkUrl": "https://tqm-mos.com",
+    "sourceImage": "https://tqm-mos.com/js/img/icon.png",
+    "sourceDescription": "Kho IPA Ứng Dụng IOS - Hacks Games / Crack Ứng Dụng / Ứng Dụng Nhân Bản / Cập Nhật Ứng Dụng Thường Xuyên / by Trần Quang Minh : anhminh311105@gmail.com",
+    "appCategories": [
+        "Ứng dụng"
+    ],
+    "appRepositories": [
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Gbox",
+            "appVersion": "4.5",
+            "appImage": "https://tqm-mos.com/js/img/gbox.png",
+            "appPackage": "https://archive.org/download/gbox-tqm_202303/GBoxTQM.ipa",
+            "appDescription": "Kho kí ứng dụng IOS | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "ESign",
+            "appVersion": "4.8.2",
+            "appImage": "https://tqm-mos.com/js/img/esign.png",
+            "appPackage": "https://archive.org/download/esign-tqm_202302/ESign-TQM.ipa",
+            "appDescription": "Kho kí ứng dụng IOS | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Scarlet",
+            "appVersion": "1.0",
+            "appImage": "https://tqm-mos.com/js/img/scarlet.png",
+            "appPackage": "https://archive.org/download/scarlet-tqm/Scarlet-TQM.ipa",
+            "appDescription": "Kho kí ứng dụng IOS | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Magic Sign",
+            "appVersion": "5.1.1",
+            "appImage": "https://tqm-mos.com/js/img/magicsign.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/MagicSign-TQM.ipa",
+            "appDescription": "Kho kí ứng dụng IOS | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "ZSign",
+            "appVersion": "7.3.0",
+            "appImage": "https://tqm-mos.com/js/img/zsign.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Zsign-TQM.ipa",
+            "appDescription": "Kho kí ứng dụng IOS | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Photo Lab Pro",
+            "appVersion": "3.11.39",
+            "appImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrE8FTCG5t8IWHaHvtATpgQrAbVdz4M2DQw&usqp=CAU",
+            "appPackage": "https://archive.org/download/photo-lab-pro-tqm-mos/PhotoLabPRO-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Dopamine",
+            "appVersion": "1.1.3",
+            "appImage": "https://user-images.githubusercontent.com/52459150/238158404-ed04dd3e-d879-456d-9aa3-d4ed44819c7e.png",
+            "appPackage": "https://github.com/opa334/Dopamine/releases/download/1.1.3/Dopamine.tipa",
+            "appDescription": "Rootless arm64e jailbreak for iOS 15.0 - 15.4.1. "
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Dualspace",
+            "appVersion": "1.0",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/69/89/2e/69892e94-e7eb-e28f-bc2b-bc4c93aabffb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+            "appPackage": "https://archive.org/download/dualspace-TQM/dualspace-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Crop Size",
+            "appVersion": "4.6.5",
+            "appImage": "https://tqm-mos.com/js/img/crop.png",
+            "appPackage": "https://archive.org/download/crop-size-tqm/CropSize-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Monokai Toolkit",
+            "appVersion": "3.1",
+            "appImage": "https://tqm-mos.com/js/img/mono.png",
+            "appPackage": "https://archive.org/download/monokai-toolkit-tqm/MonokaiToolkit-TQM.ipa",
+            "appDescription": "Monokai Toolkit no ADS"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Pure Tube Pro",
+            "appVersion": "1.2",
+            "appImage": "https://tqm-mos.com/js/img/pure.png",
+            "appPackage": "https://archive.org/download/pure-tube-pro-tqm/PureTubePro-TQM.ipa",
+            "appDescription": "Pure Tube Pro mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "1998 Cam",
+            "appVersion": "1.9.3",
+            "appImage": "https://tqm-mos.com/js/img/1998.png",
+            "appPackage": "https://archive.org/download/1998-cam-tqm/1998Cam-TQM.ipa",
+            "appDescription": "1998 Cam mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Zooba",
+            "appVersion": "4.17.1",
+            "appImage": "https://play-lh.googleusercontent.com/yfzJQY_0fZh8beIWNuIMs48iZJA_sHA9JyWopbeWyane9w97f7K27jL32rtV2EjEFQ=w480-h960",
+            "appPackage": "https://archive.org/download/zooba-tqm/Zooba-TQM.ipa",
+            "appDescription": "Hack bản đồ, Cho phép bắn trong nước"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "ToonMe",
+            "appVersion": "0.10.48",
+            "appImage": "https://is5--ssl-mzstatic-com.cdn.ampproject.org/i/s/is5-ssl.mzstatic.com/image/thumb/Purple116/v4/07/63/a2/0763a23b-949d-237a-6bd8-c9431cb574eb/ToonMe-AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+            "appPackage": "https://archive.org/download/toon-me-tqm/ToonMe-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Peachy",
+            "appVersion": "1.38.0",
+            "appImage": "https://i.rada.vn/data/image/2020/07/30/Peachy-ios-200-size-60x60-znd.png",
+            "appPackage": "https://archive.org/download/peachy-tqm/Peachy-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WPS Office",
+            "appVersion": "11.35.0",
+            "appImage": "https://store-images.s-microsoft.com/image/apps.61529.14368399110871650.9a2dde43-23d4-4513-8cd6-af7364ed0a1a.76af989f-8a85-4cb3-b44f-d7263eea4e40?w=120",
+            "appPackage": "https://archive.org/download/wpsoffice-tqm/WPSOffice-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Wipr",
+            "appVersion": "1.43",
+            "appImage": "https://a.fsdn.com/allura/s/wipr/icon?9ea720392e31799f83aff25a032dc10d95e4ea1cd8e4f6b839933d4938bb4d40?&w=180",
+            "appPackage": "https://archive.org/download/wipr-tqm/Wipr-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Family Island",
+            "appVersion": "2023156.2.32642",
+            "appImage": "https://play-lh.googleusercontent.com/QS2VFmklHq2tRP6mnyF6ie3lgPQJQwndW7mFKPbvAQXk6veDhpMYPSWdnN5YCgBpzzb7",
+            "appPackage": "https://archive.org/download/family-island-tqm/FamilyIsland-TQM.ipa",
+            "appDescription": "Hack Tiền vàng , kim cương , mọi thứ"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "DeLogo",
+            "appVersion": "4.0.5",
+            "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/be/b9/ef/beb9ef36-a685-fd85-c9f9-02f5a44037ac/source/200x200bb.jpg",
+            "appPackage": "https://archive.org/download/de-logo-tqm/DeLogo-TQM.ipa",
+            "appDescription": "Delogo - Công cụ chỉnh sửa video, Ứng dụng dựng phim nghệ sĩ, Để kích hoạt VIP, hãy nhấp vào Mua, sau đó nhấp vào Hủy"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "VPN.Lat",
+            "appVersion": "2.0",
+            "appImage": "https://play-lh.googleusercontent.com/MZj1-PzNV5A7gzz28mfPZb2sqd6djGvTntOlpnymhBjZJTr_ZcLQ8jHHHrIwKSOXt_4=w480-h960",
+            "appPackage": "https://archive.org/download/vpnlat-tqm/VPNlat-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Stitch It!",
+            "appVersion": "2.5.7",
+            "appImage": "https://play-lh.googleusercontent.com/0TprUWQD4hkStWVCjs7mGSv4mjcYg68vbwDcpmdh20Vkigc1H2JJWbObI3Hb34mt1Wpc=w480-h960",
+            "appPackage": "https://archive.org/download/stitch-tqm/Stitch-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Secret Photo",
+            "appVersion": "3.2",
+            "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/e9/31/ee/e931eed7-49ed-5ee4-b198-341401641fd2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+            "appPackage": "https://archive.org/download/secret-photo-tqm/SecretPhoto-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Garage Ringtones",
+            "appVersion": "3.0",
+            "appImage": "https://play-lh.googleusercontent.com/LH4SsW6zoQ8Fz1Yfw7da2b9sikUm0LOlXoQ3-eqJCUoOvanaWhg2xipl1bRHZbCg_jI=w480-h960",
+            "appPackage": "https://archive.org/download/garage-ringtones-tqm/GarageRingtones-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Cross DJ Pro",
+            "appVersion": "3.7.1",
+            "appImage": "https://play-lh.googleusercontent.com/uVKVJvfZvtQ6jDSkBMyM9RVH6fbLs6esniFc-b8q-L11uGHn_CGkX1tZDYwEtPyDhg=w480-h960",
+            "appPackage": "https://archive.org/download/cross-djpro-tqm/CrossDJPro-TQM.ipa",
+            "appDescription": "Mở khoá tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Dungeon Survivor",
+            "appVersion": "2.9.7",
+            "appImage": "https://play-lh.googleusercontent.com/aNn703sPVGjQuIf7BbYmHYjzpDJwfap_aV2V9MzoFkBajCyQGkk7t430LeDqZfzlWhg=w480-h960",
+            "appPackage": "https://archive.org/download/dungeon-survivor-tqm/DungeonSurvivor-TQM.ipa",
+            "appDescription": "Dungeon Survivor Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Font Keycaps",
+            "appVersion": "2.9.7",
+            "appImage": "https://icon-library.com/images/font-size-icon/font-size-icon-3.jpg",
+            "appPackage": "https://archive.org/download/fonts-tqm/Fonts-TQM.ipa",
+            "appDescription": "Font Keycaps Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Youtube Music",
+            "appVersion": "6.10.1",
+            "appImage": "https://yt3.googleusercontent.com/ytc/AGIKgqNGvYFca22R1WNvgqkrJ5HEJwWnh9j-BYZaH67eIw=s100-c-k-c0x00ffffff-no-rj",
+            "appPackage": "https://archive.org/download/you-tube-music-tqm/YouTubeMusic-TQM.ipa",
+            "appDescription": "Youtube Music Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Photomath",
+            "appVersion": "8.21.0",
+            "appImage": "https://play-lh.googleusercontent.com/E_kpq1HGn5WU2P4S2yu0BwrPEHqiA-VBh2R7qoIjPFXdNvKA0A-8zi0RzRslUtEOnUvA=w480-h960",
+            "appPackage": "https://archive.org/download/photomath-tqm/Photomath-TQM.ipa",
+            "appDescription": "Photomath Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "ProCam8",
+            "appVersion": "14.1.3",
+            "appImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL938PUXMuFmzDHfQoaShrU1yq7D04YNPt4WB9yfBSdb6-T3mcRAHdqfOAILtlRhHVuS8ESFCdRJ7lpSWf6GxFh-vD2bIDkpXkVXKDA2S9Fo34e-58lv_vRaq0s5vUvi8-oO2cBmh08dR7qeYMVRCwb8ghF-7FoidrAwHavAZpUTocxgMAUqxEGk3Y5Q/w800/1000x0w.png",
+            "appPackage": "https://archive.org/download/pro-cam-tqm/ProCam-TQM.ipa",
+            "appDescription": "ProCam8 Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "GangStar 5",
+            "appVersion": "2.1.1",
+            "appImage": "https://play-lh.googleusercontent.com/JIoZ5Fufpg2oBJygHfBEQ-rinbasfHmbBxRF8HfG_g9Q6Yj9Y8hfX0bEDy6nkvhhDMs=w480-h960",
+            "appPackage": "https://archive.org/download/gangstar-5-tqm/Gangstar5-TQM.ipa",
+            "appDescription": "GangStar 5 Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "GangStar Vegas",
+            "appVersion": "6.0.0",
+            "appImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lGPIuUIqjGUGuAhAVYwmR7khDKgWftD72g&usqp=CAU",
+            "appPackage": "https://archive.org/download/gangstar-iv-tqm/GangstarIV-TQM.ipa",
+            "appDescription": "- Tiền tệ vô hạn , - Vô hạn đạn / Không tải lại (Yêu cầu khởi chạy lại trò chơi sau khi mua súng mới và được bật trong menu trước khi tải vào trò chơi) , - Không có cảnh sát , 📝 LƯU Ý: Tắt wifi trước khi chơi"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PictureThis",
+            "appVersion": "3.48",
+            "appImage": "https://play-lh.googleusercontent.com/2dcJOJptNfz3oVeNtHqC-SyKJ-lWDafOzLlUTgOGCpl7KarBjDxnIckL20PStVmYFg=w480-h960",
+            "appPackage": "https://archive.org/download/picture-this-tqm/PictureThis-TQM.ipa",
+            "appDescription": "PictureThis Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "BeautyCamera",
+            "appVersion": "11.3.80",
+            "appImage": "https://play-lh.googleusercontent.com/xQHEOciMm92TM98JljnfYYQWKmTtURSr0Ap_yN3YVL2khKhhDTv_hIpq4DT6bcl7XL8=w480-h960",
+            "appPackage": "https://archive.org/download/beauty-camera-tqm/BeautyCamera-TQM.ipa",
+            "appDescription": "PictureThis Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Jingdong",
+            "appVersion": "168677",
+            "appImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQku3oTw18fzIU30Qc6-GfVKz5ELbMtF6j3BA&usqp=CAU",
+            "appPackage": "https://archive.org/download/jingdong-tqm/Jingdong-TQM.ipa",
+            "appDescription": "Jingdong Crack  ios ++ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "LimBo",
+            "appVersion": "1.2.2",
+            "appImage": "https://play-lh.googleusercontent.com/FJ8e7NYhyjzrjuROUSpigJ1TQNnZKUDh6AZc1SFjiD665bZsxr_7zus0DzlHIrC6Lgk=w480-h960",
+            "appPackage": "https://archive.org/download/limbo-tqm/LIMBO-TQM.ipa",
+            "appDescription": "Limbo crack ios ++"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "RGB Keyboard",
+            "appVersion": "2.5.5",
+            "appImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/AdditiveColorMixing.svg/800px-AdditiveColorMixing.svg.png",
+            "appPackage": "https://archive.org/download/rgbkeyboard-tqm/RGBKeyboard-TQM.ipa",
+            "appDescription": "RGB Keyboard crack ios ++"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Subway Blast",
+            "appVersion": "1.13.0",
+            "appImage": "https://play-lh.googleusercontent.com/qvH5_cBPDLrdFk1L-LCEusDIWwKiUOYQmBbojaFvDaKrYvqYuGXo8SS5T9uI_N68p7I=w480-h960",
+            "appPackage": "https://archive.org/download/subway-blast-tqm/SubwayBlast-TQM.ipa",
+            "appDescription": "Tính năng hack: - Số xu không giới hạn - Người hỗ trợ không giới hạn - Số lần di chuyển không giới hạn"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Liên Quân Vip",
+            "appVersion": "1.51.1.2",
+            "appImage": "https://play-lh.googleusercontent.com/S3GPwY1-mc5876ZnMk65-VrG3Xlh1R8zgK-Q_LlnbjZ7llyyv0ZGWIlNnBM7LckMMzYy",
+            "appPackage": "https://archive.org/download/lol-TQM/lol-TQM.ipa",
+            "appDescription": "Hack maps / Maps gần / Maps xa / Maps siêu xa / Hiện bổ trợ / Hiện avatar / Hiện tên cấm chọn / Fix Lag FPS - yêu cầu xoá liên quân bản gốc | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Liên Quân AIM",
+            "appVersion": "1.51.1.2",
+            "appImage": "https://play-lh.googleusercontent.com/S3GPwY1-mc5876ZnMk65-VrG3Xlh1R8zgK-Q_LlnbjZ7llyyv0ZGWIlNnBM7LckMMzYy",
+            "appPackage": "https://archive.org/download/tqmlq-jb/TQMLQ-JB.ipa",
+            "appDescription": "Hack maps / Maps gần / Maps xa / Maps siêu xa / Hiện bổ trợ / Hiện avatar / Hiện tên cấm chọn / AIM - yêu cầu xoá liên quân bản gốc | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "FreeFire Hack",
+            "appVersion": "1.100.1",
+            "appImage": "https://tqm-mos.com/js/img/freefire.png",
+            "appPackage": "https://archive.org/download/freefire-TQM/freefire-TQM.ipa",
+            "appDescription": "Xoá sương mù / Xoá cỏ / Hỗ trợ nhắm mục tiêu / Tầm nhìn của bạn sẽ theo dõi kẻ thù"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Text Scanner",
+            "appVersion": "1.7.3",
+            "appImage": "https://play-lh.googleusercontent.com/agg0Y-Z-3k5RU4Kb_O4lnD_I8wXYEl51mLBVubDYayW7ryIR_0Fu6H23DVm8EAl7NgY=w480-h960",
+            "appPackage": "https://archive.org/download/text-scanner-tqm/TextScanner-TQM.ipa",
+            "appDescription": "Mở khóa tất cả các tính năng cao cấp miễn phí ✅"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Device Monitor²",
+            "appVersion": "7.2.0",
+            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/a8/b8/19/a8b819f9-0b14-4aaa-b33d-09927958de39/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+            "appPackage": "https://archive.org/download/device-monitor2-tqm/DeviceMonitor%C2%B2-TQM.ipa",
+            "appDescription": "Mở khóa tất cả các tính năng cao cấp miễn phí ✅"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "InShot Premium",
+            "appVersion": "1.70.2",
+            "appImage": "https://play-lh.googleusercontent.com/2i0pfCrsRNWr_OOfuUOBwE0_iIRxeV7lhxUmS1NHwVa_wdF72o8uW_NGWNwdoY1Q9g=w480-h960",
+            "appPackage": "https://archive.org/download/in-shot-tqm_202306/InShot-TQM.ipa",
+            "appDescription": "Mở khóa tất cả các tính năng cao cấp miễn phí ✅"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Speed Test",
+            "appVersion": "5.0.0",
+            "appImage": "https://play-lh.googleusercontent.com/xKUdbWyGGv4lbYH5Fzrz-USBEKk84Aw43IPmnl9VVq4jewz4y8JrwOivPsAYCtTbDbdt=w480-h960",
+            "appPackage": "https://archive.org/download/speedtest-tqm/Speedtest-TQM.ipa",
+            "appDescription": "Kiểm tra tốc độ mạng - Không có quảng cáo ✅"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Survivor.io",
+            "appVersion": "2.0.1",
+            "appImage": "https://imgs2.dab3games.com/survival-io-game6.png",
+            "appPackage": "https://archive.org/download/survivor.io-tqm/Survivor.io-TQM.ipa",
+            "appDescription": "Tính năng hack: - Chế độ thần - Đã xóa kiểm tra bẻ khóa"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "DJay",
+            "appVersion": "4.1.9",
+            "appImage": "https://play-lh.googleusercontent.com/CDRK7UhWc0m5P1ZsOs9bFmlASqFjuCagKK1UEJ68IKu1vfZmP55M8RWjxjHvC4hI5fGc=w480-h960",
+            "appPackage": "https://archive.org/download/djay-tqm/Djay-TQM.ipa",
+            "appDescription": "Mở khóa tất cả các tính năng chuyên nghiệp - 📝 Hỗ trợ tất cả phiên bản iOS"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Locker",
+            "appVersion": "4.9.8",
+            "appImage": "https://play-lh.googleusercontent.com/j9EiuggNP9FwmPvuWHK1-hrLCD4Gn1nzcFFO9SAPrjvrjWxzkcCxQCdaPnIHeuipAwY=w480-h960",
+            "appPackage": "https://archive.org/download/locker-tqm/Locker-TQM.ipa",
+            "appDescription": "Locker - Ẩn ảnh, mật khẩu, video và điểm đến - Liên hệ, tập tin trong tủ khóa bí mật cá nhân của bạn. - Hình ảnh và chủ đề dành riêng cho album - Bảo vệ mật khẩu giả - Ẩn ảnh, video, mật khẩu, tệp và đích đến sờ nắn - Trình chỉnh sửa ảnh tất cả trong một - Trình phát đa phương tiện hỗ trợ toàn màn hình - Máy ảnh bí mật để chụp ảnh và quay video - Sao lưu vào iCloud - Cảnh báo xâm nhập bằng hình ảnh kẻ xâm nhập, ngày giờ xâm nhập"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Snake.io - Fun Online Slither",
+            "appVersion": "1.16.39",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/d8/b3/f5d8b30f-1217-9e7b-6388-f823066ac79e/source/512x512bb.jpg",
+            "appPackage": "https://archive.org/download/fun-online-slither-tqm/FunOnlineSlither-TQM.ipa",
+            "appDescription": "Tính năng hack: - Con rắn cao hơn - Tăng tốc - Miễn dịch - Tất cả Skins được sở hữu - Không quảng cáo"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Guru Maps Pro",
+            "appVersion": "5.3.5",
+            "appImage": "https://play-lh.googleusercontent.com/JofAWOGrT4M2AstekNNXZH4bEp79-Kd1N06t9GMTLVoNKZfzVS3-3MKrXcXaVM7-Jg=w480-h960",
+            "appPackage": "https://archive.org/download/guru-maps-pro-tqm/GuruMapsPro-TQM.ipa",
+            "appDescription": "Guru Maps Pro - Một ứng dụng bản đồ tuyệt vời, trị giá 299,99 đô la, Đối thủ mạnh của Google Maps, Hỗ trợ tải bản đồ và sử dụng sau khi không có Internet"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PUBG Mobile",
+            "appVersion": "2.7.0",
+            "appImage": "https://play-lh.googleusercontent.com/GfWFn7AvHjD2ApE4aL6cATwxh0FBXZg6fqdHuswTWHDvx-j8yiYXkVXigmILVkvDe8Y=w480-h960",
+            "appPackage": "https://archive.org/download/pubg-tqm/PUBG-TQM.ipa",
+            "appDescription": "PUBG Mobile - Hack xoá cỏ , ăngten , chạy nhanh ...."
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "RainViewer",
+            "appVersion": "3.0.4",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a2/48/3d/a2483df8-ed9f-3de0-f2d7-8ad8ba0d156a/source/200x200bb.jpg",
+            "appPackage": "https://archive.org/download/rain-viewer-tqm/RainViewer-TQM.ipa",
+            "appDescription": "RainViewer - Một ứng dụng hiển thị thời tiết, Mở khóa tất cả các tính năng cao cấp miễn phí ✅"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PhotoRetouch",
+            "appVersion": "1.7",
+            "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/35/5b/c7/355bc7a6-894d-3efe-5ee3-457888f87119/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+            "appPackage": "https://archive.org/download/photo-retouch-tqm/PhotoRetouch-TQM.ipa",
+            "appDescription": "PhotoRetouch - Mở khóa tất cả các tính năng cao cấp miễn phí ✅"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "VideoEraser",
+            "appVersion": "1.3",
+            "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/9f/ef/0a/9fef0adc-6962-0a7c-b970-2658fc6b2bfc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+            "appPackage": "https://archive.org/download/video-eraser-tqm/VideoEraser-TQM.ipa",
+            "appDescription": "VideoEraser - Mở khóa tất cả các tính năng cao cấp miễn phí ✅"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Video Splitter Pro - Cut Story",
+            "appVersion": "1.0.5",
+            "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/74/7f/ba747f6b-a3de-9b62-bcb0-0ce71c9ffda1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg",
+            "appPackage": "https://archive.org/download/video-splitter-pro-tqm/VideoSplitterPro-TQM.ipa",
+            "appDescription": "Video Splitter Pro - Cut Story, Kích hoạt tất cả tính nămg, Để kích hoạt VIP, hãy nhấp vào Mua, sau đó nhấp vào Hủy"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "VNeID",
+            "appVersion": "2.0.8",
+            "appImage": "https://cdn.tgdd.vn/2021/09/GameApp/tai-vneid-ung-dung-khai-bao-di-chuyen-noi-dia-di-bien-logo-08-09-2021-180x180.png",
+            "appPackage": "https://archive.org/download/vne-id-tqm/VNeID-TQM.ipa",
+            "appDescription": "VNeID bypass máy đã jaibreaks và cài TrollStore"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "True VHS",
+            "appVersion": "1.983",
+            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/b8/9e/1ab89e31-f012-3da8-85e4-b7db45106974/source/512x512bb.jpg",
+            "appPackage": "https://archive.org/download/true-vhs-tqm/TrueVHS-TQM.ipa",
+            "appDescription": "True VHS - Máy ảnh cổ điển thập niên 90, Một ứng dụng chụp ảnh với hiệu ứng của máy ảnh cũ, Để kích hoạt, nhấp vào Mua, sau đó Hủy"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Logo Maker",
+            "appVersion": "10.9.5",
+            "appImage": "https://m.media-amazon.com/images/I/71K7ZsSieOL.png",
+            "appPackage": "https://archive.org/download/logo-maker-tqm/LogoMaker-TQM.ipa",
+            "appDescription": "Logo Maker | Trình tạo Logo chuyên nghiệp, Nhà thiết kế logo chuyên nghiệp, Đã mở khóa cao cấp (mua và hủy), Đã mở khóa các tính năng (mua rồi hủy)"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Sileo",
+            "appVersion": "1.2.6",
+            "appImage": "https://pbs.twimg.com/profile_images/1019627376857280512/laMqxYhl_400x400.jpg",
+            "appPackage": "https://archive.org/download/sileo-tqm/SileoTQM.ipa",
+            "appDescription": "Store Tweaks For ios11 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Retouch",
+            "appVersion": "5.1.6",
+            "appImage": "https://play-lh.googleusercontent.com/DoMkL-vGKaII-MCj8urYbsUvTU32DOsZ1j7E3Aae9edMzMFixPEpREkQ5yaVv1R9OjY",
+            "appPackage": "https://archive.org/download/retouch-tqm/Retouch-TQM.ipa",
+            "appDescription": "Retouch For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "DURecorder",
+            "appVersion": "1.7.5",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/25/3d/e3/253de31b-eac2-a0c5-80b5-21070d6af99c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/1200x630bb.png",
+            "appPackage": "https://archive.org/download/durecorder-tqm/DURecorder-TQM.ipa",
+            "appDescription": "DURecorder For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Star VPN",
+            "appVersion": "3.6.0",
+            "appImage": "https://play-lh.googleusercontent.com/2zGoNqdTK6blkWiQBA_S3OZS8Rr2J3MY2g32QeNVmGsAxdgN5_MJjGjfMhZjBrV7Vg",
+            "appPackage": "https://archive.org/download/star-vpn-tqm/StarVPN-TQM.ipa",
+            "appDescription": "Star VPN For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "VPN Bucks",
+            "appVersion": "2.1.0",
+            "appImage": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/4c/77/4f4c7721-000e-7097-ad9b-f6745850a9c2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+            "appPackage": "https://archive.org/download/vpnbucks-tqm/VPNBucks-TQM.ipa",
+            "appDescription": "VPN Bucks For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "FreeVPN",
+            "appVersion": "7.6",
+            "appImage": "https://m.media-amazon.com/images/I/31ecWYqQs7L.jpg",
+            "appPackage": "https://archive.org/download/free-vpn-tqm/FreeVPN-TQM.ipa",
+            "appDescription": "FreeVPN For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Alight Motion",
+            "appVersion": "5.0.3",
+            "appImage": "https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w",
+            "appPackage": "https://archive.org/download/alight-motion-tqm/AlightMotion-TQM.ipa",
+            "appDescription": "Đã mở khóa cao cấp,Lưu ý: Đăng nhập để kích hoạt Premium"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "FL Studio Mobile",
+            "appVersion": "4.3.6",
+            "appImage": "https://play-lh.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs",
+            "appPackage": "https://archive.org/download/flstudio-mobile-tqm/FLStudioMobile-TQM.ipa",
+            "appDescription": "FL Studio Mobile For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Smart TVCast",
+            "appVersion": "2.4",
+            "appImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/50/a6/d050a685-79e4-e405-168f-d8fb5365699f/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+            "appPackage": "https://archive.org/download/smart-tvcast-tqm/SmartTVCast-TQM.ipa.ipa",
+            "appDescription": "Smart TVCast For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Weather Now",
+            "appVersion": "2.9.3",
+            "appImage": "https://play-lh.googleusercontent.com/xStBcJPuPBtrPnQi8swLwib0wnIQOZp2J7ckVAj7NHXHcJBAg4IiwRbYxAHd4Cj2TQ",
+            "appPackage": "https://archive.org/download/weather-now-tqm/WeatherNow-TQM.ipa",
+            "appDescription": "Weather Now For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Mobile Legends",
+            "appVersion": "1.7.94",
+            "appImage": "https://play-lh.googleusercontent.com/UELcKakJhwKhdDJIwpdvd1RjE3ClRXiG0nhChs69fBv-nn5ZkgSp2EkkRTnJYFtYoZyu",
+            "appPackage": "https://archive.org/download/mobile-legends-tqm/MobileLegends-TQM.ipa",
+            "appDescription": "Bản đồ Hack (Radar Hack Overlay),Dòng đặc biệt,Hiển thị anh hùng,Màu sắc khác nhau cho mỗi kẻ thù,Hiển thị thông tin CD Kỹ năng anh hùng và Thanh sức khỏe"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Among Us",
+            "appVersion": "2023.2.28",
+            "appImage": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+            "appPackage": "https://archive.org/download/among-us-tqm/AmongUs-TQM.ipa",
+            "appDescription": "Tất cả Skins đã được mở khóa,Tất cả vật nuôi đã được mở khóa,Tất cả mũ đã được mở khóa,Không có quảng cáo"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Unc0ver 8.0.2",
+            "appVersion": "8.0.2",
+            "appImage": "https://tqm-mos.com/js/img/unc0ver.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/unc0ver802-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Unc0ver 8.0.1",
+            "appVersion": "8.0.1",
+            "appImage": "https://tqm-mos.com/js/img/unc0ver.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/unc0ver801-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Unc0ver 8.0.0",
+            "appVersion": "8.0.0",
+            "appImage": "https://tqm-mos.com/js/img/unc0ver.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/unc0ver800-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Unc0ver 7.0.2",
+            "appVersion": "7.0.2",
+            "appImage": "https://tqm-mos.com/js/img/unc0ver.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/unc0ver702-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Unc0ver 6.2.0",
+            "appVersion": "6.2.0",
+            "appImage": "https://tqm-mos.com/js/img/unc0ver.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/unc0ver620-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Unc0ver 6.1.2",
+            "appVersion": "6.1.2",
+            "appImage": "https://tqm-mos.com/js/img/unc0ver.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/unc0ver612-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Unc0ver 6.0.0",
+            "appVersion": "6.0.0",
+            "appImage": "https://tqm-mos.com/js/img/unc0ver.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/unc0ver600-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Unc0ver 5.3.1",
+            "appVersion": "5.3.1",
+            "appImage": "https://tqm-mos.com/js/img/unc0ver.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/unc0ver531-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-14.8 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Taurine",
+            "appVersion": "1.1.6",
+            "appImage": "https://tqm-mos.com/js/img/ta.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Taurine-TQM.ipa",
+            "appDescription": "jailbreak For ios14.0-14.3 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "XinaA15",
+            "appVersion": "1.1.6.2",
+            "appImage": "https://tqm-mos.com/js/img/xina.png",
+            "appPackage": "https://archive.org/download/xina-a-15-tqm/XinaA15-TQM.ipa",
+            "appDescription": "jailbreak For ios15.0-15.1.1 | A12 - A15M1"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Th0r",
+            "appVersion": "2.9.6",
+            "appImage": "https://tqm-mos.com/js/img/thor.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Th0r-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-11.4.1 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Th0r4",
+            "appVersion": "1.4.2",
+            "appImage": "https://tqm-mos.com/js/img/th0r.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Th0r4-TQM.ipa",
+            "appDescription": "jailbreak For ios13.0-13.7 | A9-A13"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Th0r14",
+            "appVersion": "4.1.2",
+            "appImage": "https://tqm-mos.com/js/img/th0r.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Th0r14-TQM.ipa",
+            "appDescription": "jailbreak For ios14.0-14.3 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Odyssey",
+            "appVersion": "1.4.2",
+            "appImage": "https://tqm-mos.com/js/img/ody.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Odyssey-TQM.ipa",
+            "appDescription": "jailbreak For ios13.0-13.7 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Chimera",
+            "appVersion": "1.6.5",
+            "appImage": "https://tqm-mos.com/js/img/chimera.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/chimera-TQM.ipa",
+            "appDescription": "jailbreak For ios12.2-12.5.7 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Chimera",
+            "appVersion": "1.6.4",
+            "appImage": "https://tqm-mos.com/js/img/chimera.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/chimera12-TQM.ipa",
+            "appDescription": "jailbreak For ios12.0-12.1.4 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Freya",
+            "appVersion": "1.3.7-1",
+            "appImage": "https://tqm-mos.com/js/img/freya.png",
+            "appPackage": "https://archive.org/download/freya-tqm/Freya-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-12.5.7 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Electra",
+            "appVersion": "2.0",
+            "appImage": "https://tqm-mos.com/js/img/electra.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Electra-TQM.ipa",
+            "appDescription": "jailbreak For ios11.0-11.4.1 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "DoubleH3lix",
+            "appVersion": "1.0~RC8",
+            "appImage": "https://tqm-mos.com/js/img/doubleH3lix.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/doubleH3lix-TQM.ipa",
+            "appDescription": "jailbreak For ios10.0-10.3.3| 64bit"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "H3lix",
+            "appVersion": "1.0~RC6",
+            "appImage": "https://tqm-mos.com/js/img/h3lix.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/h3lix-TQM.ipa",
+            "appDescription": "jailbreak For ios10.0-10.3.4 | 32bit"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Meridian",
+            "appVersion": "1.0",
+            "appImage": "https://tqm-mos.com/js/img/Meridian.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Meridian-TQM.ipa",
+            "appDescription": "jailbreak For ios10.0-10.3.3 | 64bit"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Yalu102",
+            "appVersion": "0.7",
+            "appImage": "https://tqm-mos.com/js/img/yalu102.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/yalu102-TQM.ipa",
+            "appDescription": "jailbreak For ios10.0-10.2 | 64bit"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "G0blin",
+            "appVersion": "2.0",
+            "appImage": "https://tqm-mos.com/js/img/goblin.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/g0blin-TQM.ipa",
+            "appDescription": "jailbreak For ios10.0-10.3.3 | 64bit"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Saigon",
+            "appVersion": "3.0",
+            "appImage": "https://tqm-mos.com/js/img/saigon.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/SaiGonJB-TQM.ipa",
+            "appDescription": "jailbreak For ios10.0-10.2.1 | 64bit"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "RootlessJB",
+            "appVersion": "2.1",
+            "appImage": "https://tqm-mos.com/js/img/rootless.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/rootlessJB4-TQM.ipa",
+            "appDescription": "jailbreak For ios12.0-12.4.7 | A7-A11"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Rollectra11",
+            "appVersion": "1.1.2",
+            "appImage": "https://tqm-mos.com/js/img/rollectra11.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Rollectra11-TQM.ipa",
+            "appDescription": "jailbreak For ios11 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "JB Remover",
+            "appVersion": "5.7",
+            "appImage": "https://tqm-mos.com/js/img/JBRemover.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/JBRemover-TQM.ipa",
+            "appDescription": "jailbreak For ios11 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "My Fonts",
+            "appVersion": "1.10.8",
+            "appImage": "https://ipalibrary.me/wp-content/uploads/2023/01/WDBFontOverwrite.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Fonts-TQM.ipa",
+            "appDescription": "Fonts For ios14.0-16.1.2 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "My Fonts A12+",
+            "appVersion": "1.10.8",
+            "appImage": "https://ipalibrary.me/wp-content/uploads/2023/01/WDBFontOverwrite.png",
+            "appPackage": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.2.0/KFDFontOverwriteNon14Pro.ipa",
+            "appDescription": "Fonts For ios14.0-16.6b | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "My Fonts A16",
+            "appVersion": "1.10.8",
+            "appImage": "https://ipalibrary.me/wp-content/uploads/2023/01/WDBFontOverwrite.png",
+            "appPackage": "https://github.com/hrtowii/WDBFontOverwrite/releases/download/v2.2.0/KFDFontOverwrite14Pro.ipa",
+            "appDescription": "Fonts For ios14.0-16.6b | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "My Fonts 2",
+            "appVersion": "1.8.0",
+            "appImage": "https://ipalibrary.me/wp-content/uploads/2023/01/WDBFontOverwrite.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Fonts2-TQM.ipa",
+            "appDescription": "Fonts For ios10.0-16.1.2 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Cowabunga",
+            "appVersion": "10.1.1",
+            "appImage": "https://tqm-mos.com/js/img/Cowabunga.png",
+            "appPackage": "https://tqmmos.github.io/fix/Cowabunga-TQM.ipa",
+            "appDescription": "Tools For ios14.0-16.1.2 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "ScreenshotX",
+            "appVersion": "1.0",
+            "appImage": "https://tqm-mos.com/js/img/ScreenshotX.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/ScreenshotX-TQM.ipa",
+            "appDescription": "ScreenshotX For ios9.3 Trở nên | 64bit"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Facebook Lite",
+            "appVersion": "200.0",
+            "appImage": "https://tqm-mos.com/js/img/lite.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/FaceLite-TQM.ipa",
+            "appDescription": "Facebook Lite For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Facebook v82",
+            "appVersion": "82.0",
+            "appImage": "https://tqm-mos.com/js/img/fb82.png",
+            "appPackage": "https://archive.org/download/facebook-82-tqm/Facebook82-TQM.ipa",
+            "appDescription": "Facebook v82 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Facebook 2",
+            "appVersion": "425.0",
+            "appImage": "https://tqm-mos.com/js/img/fb.png",
+            "appPackage": "https://archive.org/download/facebook-2-tqm/Facebook2-TQM.ipa",
+            "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Facebook 3",
+            "appVersion": "425.0",
+            "appImage": "https://tqm-mos.com/js/img/fb.png",
+            "appPackage": "https://archive.org/download/facebook-tqm/Facebook-TQM.ipa",
+            "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Facebook 4",
+            "appVersion": "425.0",
+            "appImage": "https://tqm-mos.com/js/img/fb.png",
+            "appPackage": "https://archive.org/download/facebook-4_20220823/Facebook4.ipa",
+            "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Facebook 5",
+            "appVersion": "425.0",
+            "appImage": "https://tqm-mos.com/js/img/fb.png",
+            "appPackage": "https://archive.org/download/facebook-5_202208/Facebook5.ipa",
+            "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Facebook 6",
+            "appVersion": "425.0",
+            "appImage": "https://tqm-mos.com/js/img/fb.png",
+            "appPackage": "https://archive.org/download/facebook-6_202208/Facebook6.ipa",
+            "appDescription": "Chặn QC lưu video và rất nhiều tính năng hay"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Messenger 2",
+            "appVersion": "297.0",
+            "appImage": "https://tqm-mos.com/js/img/mes.png",
+            "appPackage": "https://archive.org/download/messenger-297-tqm/Messenger297-TQM.ipa",
+            "appDescription": "Không hiện đã đọc , xem tin nhắn , - Không hiện đang soạn tin nhắn , - Lưu hình ảnh và video Story"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Messenger 3",
+            "appVersion": "311.0",
+            "appImage": "https://tqm-mos.com/js/img/mes.png",
+            "appPackage": "https://archive.org/download/messenger-311-tqm/Messenger311-TQM.ipa",
+            "appDescription": "Không hiện đã đọc , xem tin nhắn , - Không hiện đang soạn tin nhắn , - Lưu hình ảnh và video Story"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Messenger 4",
+            "appVersion": "392.0",
+            "appImage": "https://tqm-mos.com/js/img/mes.png",
+            "appPackage": "https://archive.org/download/messenger-392-tqm/Messenger392-TQM.ipa",
+            "appDescription": "Không hiện đã đọc , xem tin nhắn , - Không hiện đang soạn tin nhắn , - Lưu hình ảnh và video Story"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Zalo 2",
+            "appVersion": "23.07.1",
+            "appImage": "https://tqm-mos.com/js/img/zalo.png",
+            "appPackage": "https://archive.org/download/zalo-2-tqm/Zalo2-TQM.ipa",
+            "appDescription": "Zalo 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Zalo 3",
+            "appVersion": "23.07.1",
+            "appImage": "https://tqm-mos.com/js/img/zalo.png",
+            "appPackage": "https://archive.org/download/zalo-3/Zalo3.ipa",
+            "appDescription": "Zalo 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Zalo 4",
+            "appVersion": "23.07.1",
+            "appImage": "https://tqm-mos.com/js/img/zalo.png",
+            "appPackage": "https://archive.org/download/zalo-4/Zalo4.ipa",
+            "appDescription": "Zalo 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Zalo 5",
+            "appVersion": "23.07.1",
+            "appImage": "https://tqm-mos.com/js/img/zalo.png",
+            "appPackage": "https://archive.org/download/zalo-5/Zalo5.ipa",
+            "appDescription": "Zalo 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Zalo 6",
+            "appVersion": "23.07.1",
+            "appImage": "https://tqm-mos.com/js/img/zalo.png",
+            "appPackage": "https://archive.org/download/zalo-6/Zalo6.ipa",
+            "appDescription": "Zalo 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WhatsApp 2",
+            "appVersion": "23.10.76",
+            "appImage": "https://tqm-mos.com/js/img/whatsapp.png",
+            "appPackage": "https://archive.org/download/whats-app-tqm/%E2%80%8EWhatsApp-TQM.ipa",
+            "appDescription": "WhatsApp 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WhatsApp 3",
+            "appVersion": "23.10.76",
+            "appImage": "https://tqm-mos.com/js/img/whatsapp.png",
+            "appPackage": "https://archive.org/download/whats-app-tqm-3/WhatsApp-TQM3.ipa",
+            "appDescription": "WhatsApp 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WhatsApp 4",
+            "appVersion": "23.10.76",
+            "appImage": "https://tqm-mos.com/js/img/whatsapp.png",
+            "appPackage": "https://archive.org/download/whats-app-tqm-4/WhatsApp-TQM4.ipa",
+            "appDescription": "WhatsApp 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WhatsApp 5",
+            "appVersion": "23.10.76",
+            "appImage": "https://tqm-mos.com/js/img/whatsapp.png",
+            "appPackage": "https://archive.org/download/whats-app-tqm-5/WhatsApp-TQM5.ipa",
+            "appDescription": "WhatsApp 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WhatsApp 6",
+            "appVersion": "23.10.76",
+            "appImage": "https://tqm-mos.com/js/img/whatsapp.png",
+            "appPackage": "https://archive.org/download/whats-app-tqm-6/WhatsApp-TQM6.ipa",
+            "appDescription": "WhatsApp 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WeChat 2",
+            "appVersion": "8.0.17",
+            "appImage": "https://tqm-mos.com/js/img/wechat.png",
+            "appPackage": "https://archive.org/download/we-chat-tqm-2/WeChatTQM2.ipa",
+            "appDescription": "WeChat 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WeChat 3",
+            "appVersion": "8.0.17",
+            "appImage": "https://tqm-mos.com/js/img/wechat.png",
+            "appPackage": "https://archive.org/download/we-chat-tqm-3/WeChatTQM3.ipa",
+            "appDescription": "WeChat 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WeChat 4",
+            "appVersion": "8.0.17",
+            "appImage": "https://tqm-mos.com/js/img/wechat.png",
+            "appPackage": "https://archive.org/download/we-chat-tqm-4/WeChatTQM4.ipa",
+            "appDescription": "WeChat 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WeChat 5",
+            "appVersion": "8.0.17",
+            "appImage": "https://tqm-mos.com/js/img/wechat.png",
+            "appPackage": "https://archive.org/download/we-chat-tqm-5/WeChatTQM5.ipa",
+            "appDescription": "WeChat 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "WeChat 6",
+            "appVersion": "8.0.17",
+            "appImage": "https://tqm-mos.com/js/img/wechat.png",
+            "appPackage": "https://archive.org/download/we-chat-tqm-6/WeChatTQM6.ipa",
+            "appDescription": "WeChat 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "MoMo 2",
+            "appVersion": "4.0.14",
+            "appImage": "https://tqm-mos.com/js/img/momo.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/MoMoTQM2.ipa",
+            "appDescription": "MoMo 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "MoMo 3",
+            "appVersion": "4.0.14",
+            "appImage": "https://tqm-mos.com/js/img/momo.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/MoMoTQM3.ipa",
+            "appDescription": "MoMo 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "MoMo 4",
+            "appVersion": "4.0.14",
+            "appImage": "https://tqm-mos.com/js/img/momo.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/MoMoTQM4.ipa",
+            "appDescription": "MoMo 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "MoMo 5",
+            "appVersion": "4.0.14",
+            "appImage": "https://tqm-mos.com/js/img/momo.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/MoMoTQM5.ipa",
+            "appDescription": "MoMo 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "MoMo 6",
+            "appVersion": "4.0.14",
+            "appImage": "https://tqm-mos.com/js/img/momo.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/MoMoTQM6.ipa",
+            "appDescription": "MoMo 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Viettel Money 2",
+            "appVersion": "5.2.6",
+            "appImage": "https://tqm-mos.com/js/img/money.png",
+            "appPackage": "https://archive.org/download/money-tqm-2/Money-TQM2.ipa",
+            "appDescription": "Viettel Money 2 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Viettel Money 3",
+            "appVersion": "5.2.6",
+            "appImage": "https://tqm-mos.com/js/img/money.png",
+            "appPackage": "https://archive.org/download/money-tqm-3/Money-TQM3.ipa",
+            "appDescription": "Viettel Money 3 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Viettel Money 4",
+            "appVersion": "5.2.6",
+            "appImage": "https://tqm-mos.com/js/img/money.png",
+            "appPackage": "https://archive.org/download/money-tqm-4/Money-TQM4.ipa",
+            "appDescription": "Viettel Money 4 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Viettel Money 5",
+            "appVersion": "5.2.6",
+            "appImage": "https://tqm-mos.com/js/img/money.png",
+            "appPackage": "https://archive.org/download/money-tqm-5/Money-TQM5.ipa",
+            "appDescription": "Viettel Money 5 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Viettel Money 6",
+            "appVersion": "5.2.6",
+            "appImage": "https://tqm-mos.com/js/img/money.png",
+            "appPackage": "https://archive.org/download/money-tqm-6/Money-TQM6.ipa",
+            "appDescription": "Viettel Money 6 For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Instagram++",
+            "appVersion": "295.0",
+            "appImage": "https://tqm-mos.com/js/img/ig.png",
+            "appPackage": "https://archive.org/download/instageram-TQM/instageram-TQM.ipa",
+            "appDescription": "Mở khoá 1 vài tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "TikTok TQ",
+            "appVersion": "22.8.0",
+            "appImage": "https://tqm-mos.com/js/img/tiktok.png",
+            "appPackage": "https://archive.org/download/tik-tok-tq-tqm/TikTokTQ-TQM.ipa",
+            "appDescription": "TikTok Trung Quốc Ngắm Gái Xinh 😂"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "TikTok No Logo",
+            "appVersion": "30.6.0",
+            "appImage": "https://tqm-mos.com/js/img/tiktok.png",
+            "appPackage": "https://archive.org/download/tik-tok-tqm/TikTok-TQM.ipa",
+            "appDescription": "Tải xuống phương tiện không có hình mờ, Thay đổi vị trí, Bật toàn màn hình, Nhiều tính năng khác, Thông báo/Liên kết hỗ trợ(Dành cho người dùng Trollstore)"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "TikTok No Logo",
+            "appVersion": "19.3.0",
+            "appImage": "https://tqm-mos.com/js/img/tiktok.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/TikTok-TQM19.ipa",
+            "appDescription": "Tải xuống phương tiện không có hình mờ, Thay đổi vị trí,Bật toàn màn hình, Nhiều tính năng khác,Thông báo/Liên kết hỗ trợ(Dành cho người dùng Trollstore)"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Youtube Cercube",
+            "appVersion": "18.29.1",
+            "appImage": "https://tqm-mos.com/js/img/yt.png",
+            "appPackage": "https://archive.org/download/uyou-TQM/uyou-TQM.ipa",
+            "appDescription": "Youtube No ads For ios14 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "HdoPlay",
+            "appVersion": "1.0.2",
+            "appImage": "https://tqm-mos.com/js/img/hdo.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/HdoPlay-TQM.ipa",
+            "appDescription": "HdoPlay No ads For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Play Diary",
+            "appVersion": "1.1.0",
+            "appImage": "https://tqm-mos.com/js/img/playdiary.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/PlayDiary-TQM.ipa",
+            "appDescription": "Play Diary For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Kodi",
+            "appVersion": "19.4",
+            "appImage": "https://tqm-mos.com/js/img/kodi.png",
+            "appPackage": "https://archive.org/download/kodi-TQM/kodi-TQM.ipa",
+            "appDescription": "Kodi For ios10.0 Trở nên | 64bit"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PPSSPP",
+            "appVersion": "1.12.3-340",
+            "appImage": "https://tqm-mos.com/js/img/ppsspp.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/ppsspp-TQM.ipa",
+            "appDescription": "PPSSPP For ios9 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "ZingVip",
+            "appVersion": "4.0.2",
+            "appImage": "https://tqm-mos.com/js/img/zing.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Zing-TQM.ipa",
+            "appDescription": "ZingVip For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Terabox Premium",
+            "appVersion": "3.16.0",
+            "appImage": "https://tqm-mos.com/js/img/terbox.png",
+            "appPackage": "https://archive.org/download/tera-box-tqm/TeraBox-TQM.ipa",
+            "appDescription": "Terabox Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Ulike Premium",
+            "appVersion": "3.2.0",
+            "appImage": "https://tqm-mos.com/js/img/ulike.png",
+            "appPackage": "https://archive.org/download/ulike-TQM/ulike-TQM.ipa",
+            "appDescription": "Ulike Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Camera360 Gold",
+            "appVersion": "9.80.03",
+            "appImage": "https://tqm-mos.com/js/img/camera360.png",
+            "appPackage": "https://archive.org/download/camera-360-tqm/Camera360-TQM.ipa",
+            "appDescription": "Camera360 Gold For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Beauty Plus",
+            "appVersion": "7.2.011",
+            "appImage": "https://tqm-mos.com/js/img/beauty.png",
+            "appPackage": "https://archive.org/download/beauty-plus-tqm/BeautyPlus-TQM.ipa",
+            "appDescription": "Beauty Plus For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Intolive Pro",
+            "appVersion": "3.3.3",
+            "appImage": "https://tqm-mos.com/js/img/intolivepro.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/intolivepro-TQM.ipa",
+            "appDescription": "Intolive Pro For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "KineMaster Premium",
+            "appVersion": "6.2.0",
+            "appImage": "https://tqm-mos.com/js/img/kinesmaster.png",
+            "appPackage": "https://archive.org/download/kinesmaster-TQM/kinesmaster-TQM.ipa",
+            "appDescription": "KineMaster Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Spotifi",
+            "appVersion": "8.8.38",
+            "appImage": "https://tqm-mos.com/js/img/spotifi.png",
+            "appPackage": "https://archive.org/download/spotify-tqm/Spotify-TQM.ipa",
+            "appDescription": "Spotifi - Không quảng cáo, Đã kích hoạt đăng ký"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PicsArt Premium",
+            "appVersion": "22.7.2",
+            "appImage": "https://tqm-mos.com/js/img/pic.png",
+            "appPackage": "https://archive.org/download/pics-art-tqm/PicsArt-TQM.ipa",
+            "appDescription": "PicsArt cao cấp,Đăng nhập vào tài khoản để mở khóa tất cả các tính năng"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PhotoRoom Premium",
+            "appVersion": "4.8.0",
+            "appImage": "https://tqm-mos.com/js/img/photo.png",
+            "appPackage": "https://archive.org/download/photo-room-tqm/PhotoRoom-TQM.ipa",
+            "appDescription": "Mở khóa tất cả các tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PhotoRoom Premium IOS15",
+            "appVersion": "5.4.1",
+            "appImage": "https://tqm-mos.com/js/img/photo.png",
+            "appPackage": "https://archive.org/download/photo-room-15-tqm/PhotoRoom15-TQM.ipa",
+            "appDescription": "Mở khóa tất cả các tính năng Pro"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PhotoLab Premium",
+            "appVersion": "3.11.22",
+            "appImage": "https://tqm-mos.com/js/img/photolab.png",
+            "appPackage": "https://archive.org/download/photo-lab-tqm/Photo%20Lab-TQM.ipa",
+            "appDescription": "Mở khóa tất cả các tính năng Pro"
+        },
+
+     {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Remini Premium",
+            "appVersion": "2.9.53",
+            "appImage": "https://play-lh.googleusercontent.com/xDh13mMPU9Z0cuPybhWla8k8LsjhgMmDi7XSKKFjyazb0Rohn3EDXNq9blytK-dVfDQw",
+            "appPackage": "https://archive.org/download/remini-tqm/Remini-TQM.ipa",
+            "appDescription": "Xoá QC,Lưu ảnh không Logo"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Viva Video Premium",
+            "appVersion": "9.10.7",
+            "appImage": "https://tqm-mos.com/js/img/vivavideo.png",
+            "appPackage": "https://archive.org/download/viva-video-tqm/VivaVideo-TQM.ipa",
+            "appDescription": "Viva Video Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "18++",
+            "appVersion": "5.0",
+            "appImage": "https://tqm-mos.com/js/img/18.png",
+            "appPackage": "https://archive.org/download/18_20230122_202301/18%2B%2B.ipa",
+            "appDescription": "18++ For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Viva Cut Premium",
+            "appVersion": "3.3.5",
+            "appImage": "https://tqm-mos.com/js/img/vivacut.png",
+            "appPackage": "https://archive.org/download/viva-cut-tqm/VivaCut-TQM.ipa",
+            "appDescription": "Viva Cut Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Videos Star Premium",
+            "appVersion": "11.3.2",
+            "appImage": "https://tqm-mos.com/js/img/videostar.png",
+            "appPackage": "https://archive.org/download/video-star-tqm/VideoStar-TQM.ipa",
+            "appDescription": "Videos Star Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Tempo Premium",
+            "appVersion": "4.31.1",
+            "appImage": "https://tqm-mos.com/js/img/tempo.png",
+            "appPackage": "https://archive.org/download/tempo-tqm/Tempo-TQM.ipa",
+            "appDescription": "Tempo Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Capcut Premium",
+            "appVersion": "8.8.1",
+            "appImage": "https://tqm-mos.com/js/img/capcut.png",
+            "appPackage": "https://archive.org/download/cap-cut-tqm/CapCut-TQM.ipa",
+            "appDescription": "Capcut Premium For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Lightroom Premium",
+            "appVersion": "8.1.1",
+            "appImage": "https://tqm-mos.com/js/img/lr.png",
+            "appPackage": "https://archive.org/download/lightroom-TQM/lightroom-TQM.ipa",
+            "appDescription": "Lightroom mở khoá tính năng Premium | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "LighLeap Premium",
+            "appVersion": "1.9.2",
+            "appImage": "https://tqm-mos.com/js/img/lightleap.png",
+            "appPackage": "https://archive.org/download/lightleap-tqm/Lightleap-TQM.ipa",
+            "appDescription": "LighLeap mở khoá tính năng Premium | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "AdobePS Premium",
+            "appVersion": "22.15.0",
+            "appImage": "https://tqm-mos.com/js/img/adope.png",
+            "appPackage": "https://archive.org/download/adope-TQM/adope-TQM.ipa",
+            "appDescription": "AdobePS Premium mở khoá tính năng Premium | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Filza",
+            "appVersion": "3.7",
+            "appImage": "https://tqm-mos.com/js/img/filza.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Filza-TQM.ipa",
+            "appDescription": "Filza NonJB For ios13.0-14.3 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Filza 15",
+            "appVersion": "3.8",
+            "appImage": "https://tqm-mos.com/js/img/filza.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Filza15-TQM.ipa",
+            "appDescription": "Filza NonJB For ios15.0-15.1.1 | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Subway Surfers",
+            "appVersion": "3.15.0",
+            "appImage": "https://tqm-mos.com/js/img/subwaysurfers.png",
+            "appPackage": "https://archive.org/download/subway-surf-tqm/SubwaySurf-TQM.ipa",
+            "appDescription": "Không giới hạn mọi thứ,Đã bật nhiều bước nhảy"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Minecraft",
+            "appVersion": "1.20.1",
+            "appImage": "https://tqm-mos.com/js/img/minecraft.png",
+            "appPackage": "https://archive.org/download/minecraft-tqm/Minecraft-TQM.ipa",
+            "appDescription": "Minecraft crack free | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "incredibox",
+            "appVersion": "0.5.2",
+            "appImage": "https://tqm-mos.com/js/img/incredibox.png",
+            "appPackage": "https://archive.org/download/incredibox-TQM/incredibox-TQM.ipa",
+            "appDescription": "incredibox For ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Temple Run2",
+            "appVersion": "1.102.0",
+            "appImage": "https://tqm-mos.com/js/img/templerun.png",
+            "appPackage": "https://archive.org/download/templerun2-TQM/templerun2-TQM.ipa",
+            "appDescription": "Temple Run2 hack mua xu không giới hạn , ấn vào mua rồi huỷ | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "GTA Vice City",
+            "appVersion": "1.5.6",
+            "appImage": "https://tqm-mos.com/js/img/gtavicecity.png",
+            "appPackage": "https://archive.org/download/gtavicecity-TQM/gtavicecity-TQM.ipa",
+            "appDescription": "- Tất cả vũ khí đã được mở khóa , - Ô tô & Vũ khí xuất hiện tại nhà"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "GTA III",
+            "appVersion": "1.3.13",
+            "appImage": "https://tqm-mos.com/js/img/gta3.png",
+            "appPackage": "https://archive.org/download/gta3-TQM/gta3-TQM.ipa",
+            "appDescription": "GTA III For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "GTA San",
+            "appVersion": "2.02.11",
+            "appImage": "https://tqm-mos.com/js/img/gtasan.png",
+            "appPackage": "https://archive.org/download/gtasa-tqm/GTASA-TQM.ipa",
+            "appDescription": "-Sức khỏe không giới hạn , -Không giới hạn đạn , -Sức chịu đựng không giới hạn , -Tiên không giơi hạn"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Getting Over it",
+            "appVersion": "1.14",
+            "appImage": "https://tqm-mos.com/js/img/gettingoverit.png",
+            "appPackage": "https://archive.org/download/gettingoverit-TQM/gettingoverit-TQM.ipa",
+            "appDescription": "Getting Over it For ios8 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Shadow Fight 3",
+            "appVersion": "1.30.0",
+            "appImage": "https://tqm-mos.com/js/img/shadowfight3.png",
+            "appPackage": "https://archive.org/download/shadowfight3-TQM/shadowfight3-TQM.ipa",
+            "appDescription": "Đóng băng kẻ thù"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Shadow Fight 2",
+            "appVersion": "2.28.0",
+            "appImage": "https://tqm-mos.com/js/img/shadowfight2.png",
+            "appPackage": "https://archive.org/download/shadowfight2-TQM/shadowfight2-TQM.ipa",
+            "appDescription": "➜ Tiền vô hạn , ➜ Đá quý vô hạn ,➜ Cấp độ tối đa"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Clash of Clan",
+            "appVersion": "15.352.4",
+            "appImage": "https://tqm-mos.com/js/img/clash.png",
+            "appPackage": "https://archive.org/download/clash-TQM/clash-TQM.ipa",
+            "appDescription": "Máy chủ riêng,Tài nguyên không giới hạn,Đá quý không giới hạn,Nhiều người chơi"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PvZ2",
+            "appVersion": "10.7.1",
+            "appImage": "https://tqm-mos.com/js/img/pvz2.png",
+            "appPackage": "https://archive.org/download/pvz2-TQM/pvz2-TQM.ipa",
+            "appDescription": "Xu không giới hạn,Đá quý không giới hạn,Bạc hà không giới hạn"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "PvZ1",
+            "appVersion": "3.2.0",
+            "appImage": "https://tqm-mos.com/js/img/pvz.png",
+            "appPackage": "https://archive.org/download/pvz1-TQM/pvz1-TQM.ipa",
+            "appDescription": "Mặt trời vô hạn,Vô hạn Phân bón, BugSpray và Sô cô la,Tiền xu vô hạn (Nhận một số),Không có thời gian hồi chiêu"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "8BallPool",
+            "appVersion": "5.8.1",
+            "appImage": "https://tqm-mos.com/js/img/8ballpool.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/8BallPool-TQM.ipa",
+            "appDescription": "8BallPool ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Candy Crush Saga",
+            "appVersion": "1.233.1",
+            "appImage": "https://tqm-mos.com/js/img/candy.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Candy-TQM.ipa",
+            "appDescription": "Candy Crush Saga ios8 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Candy Crush Soda",
+            "appVersion": "1.190.2",
+            "appImage": "https://tqm-mos.com/js/img/soda.png",
+            "appPackage": "https://tqm-ios.github.io/ipa/Soda-TQM.ipa",
+            "appDescription": "Candy Crush Soda ios8 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Homescapes",
+            "appVersion": "6.2.4",
+            "appImage": "https://tqm-mos.com/js/img/home.png",
+            "appPackage": "https://archive.org/download/homescapes-tqm/Homescapes-TQM.ipa",
+            "appDescription": "Homescapes hack, Di chuyển vô hạn, Boosters vô hạn, Cuộc sống vô tận"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "DLS19",
+            "appVersion": "6.06",
+            "appImage": "https://tqm-mos.com/js/img/dls19.png",
+            "appPackage": "https://archive.org/download/dream-league-tqm/DreamLeague-TQM.ipa",
+            "appDescription": "DLS19 Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "DLS22",
+            "appVersion": "9.14",
+            "appImage": "https://tqm-mos.com/js/img/dls22.png",
+            "appPackage": "https://archive.org/download/dls-22-tqm/DLS22-TQM.ipa",
+            "appDescription": "DLS22 Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "DLS23",
+            "appVersion": "10.110",
+            "appImage": "https://tqm-mos.com/js/img/dls23.png",
+            "appPackage": "https://archive.org/download/dls-23-tqm/DLS23-TQM.ipa",
+            "appDescription": "DLS23 Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Hungry Shark World",
+            "appVersion": "4.7.0",
+            "appImage": "https://tqm-mos.com/js/img/hungryshark.png",
+            "appPackage": "https://archive.org/download/hungry-shark-tqm/HungryShark-TQM.ipa",
+            "appDescription": "Hungry Shark World ios12 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Hungry Shark Evolution ",
+            "appVersion": "9.1.8",
+            "appImage": "https://tqm-mos.com/js/img/hungryshark.png",
+            "appPackage": "https://archive.org/download/hungry-shark-evo-tqm/HungrySharkEvo-TQM.ipa",
+            "appDescription": "Hungry Shark Evolution ios11 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Archero",
+            "appVersion": "4.3.4",
+            "appImage": "https://tqm-mos.com/js/img/archero.png",
+            "appPackage": "https://archive.org/download/archero-tqm/Archero-TQM.ipa",
+            "appDescription": "Archero Hack ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Inside",
+            "appVersion": "1.1.9",
+            "appImage": "https://tqm-mos.com/js/img/inside.png",
+            "appPackage": "https://archive.org/download/inside-tqm/Inside-TQM.ipa",
+            "appDescription": "Inside ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "The Spike",
+            "appVersion": "2.5.7",
+            "appImage": "https://tqm-mos.com/js/img/thespike.png",
+            "appPackage": "https://archive.org/download/the-spike-tqm/TheSpike-TQM.ipa",
+            "appDescription": "The Spike ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Call of Duty",
+            "appVersion": "202301040",
+            "appImage": "https://tqm-mos.com/js/img/duty.png",
+            "appPackage": "https://archive.org/download/duty-tqm/DutyTQM.ipa",
+            "appDescription": "Call of Duty ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Shadow Hunter",
+            "appVersion": "10.66.7",
+            "appImage": "https://tqm-mos.com/js/img/shadow.png",
+            "appPackage": "https://archive.org/download/shadow-hunter-tqm/ShadowHunter_TQM.ipa",
+            "appDescription": "Shadow Hunter ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Naruto",
+            "appVersion": "1.0b2",
+            "appImage": "https://tqm-mos.com/js/img/naruto.png",
+            "appPackage": "https://archive.org/download/naruto-tqm/Naruto-TQM.ipa",
+            "appDescription": "Natuto ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "iPoKe",
+            "appVersion": "NEW",
+            "appImage": "https://play-lh.googleusercontent.com/MDaSgXlbRkftfjNIdJ2oHodVBVLOmVg2PevfdzJkbtlawfMA-8gMAs-kCfXXY5XyLw",
+            "appPackage": "https://archive.org/download/iPokeTQM/iPokeTQM.ipa",
+            "appDescription": "iPoKe ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "My Hotpot Story",
+            "appVersion": "1.8.3",
+            "appImage": "https://tqm-mos.com/js/img/lau.png",
+            "appPackage": "https://archive.org/download/myhots-tqm/MyhotsTQM.ipa",
+            "appDescription": "My Hotpot Story hack full vật phẩm giá trị"
+        }
+    ]
+}
