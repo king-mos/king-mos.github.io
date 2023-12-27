@@ -18,7 +18,8 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Mở khóa Face ID nhanh</p>",
+          "markdown": "<p style=\"font-size:12pt;\"> Tinh chỉnh TikTok Gold</p>\n<p style=\"font-size:11pt;\">
+Đặc trưng:</p>\n<p style=\"font-size:10pt;\"> - Ẩn quảng cáo</p>\n<p style=\"font-size:10pt;\"> - Tải xuống không có hình mờ</p>\n<p style=\"font-size:10pt;\"> - Tự động cuộn sang video tiếp theo</p>\n<p style=\"font-size:10pt;\"> - Thay đổi vùng (có thể không hoạt động với iPad và một số thiết bị)</p>\n<p style=\"font-size:10pt;\"> - Hiển thị thanh tiến trình (để tua đi hoặc tua lại video)</p>\n<p style=\"font-size:10pt;\"> - Có thể ẩn UI (xem video toàn màn hình)</p>\n<p style=\"font-size:10pt;\"> - Hỗ trợ iOS 12 - 14 & phiên bản TikTok mới nhất.</p>",
           "useRawFormat": true
         },
         {
@@ -37,7 +38,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/data/tweaks.png"
+              "url": "https://tqm-mos.com/info/tiktokgod/screenshots/1.png"
             }
           ]
         },
@@ -64,17 +65,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Spark",
+          "text": "HAO NGUYEN",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1.0",
+          "text": "4.0.0",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.x",
+          "text": "12.0 - 14.x",
           "title": "Hỗ trợ"
         },
         {
@@ -135,13 +136,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.1.0",
+          "title": "4.0.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
           "useRawFormat": true
         }
       ]

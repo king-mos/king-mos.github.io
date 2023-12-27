@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Mở khóa Face ID nhanh</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Làm cho tất cả ứng dụng ở chế độ toàn màn hình trên các thiết bị hiện đại.</p>",
           "useRawFormat": true
         },
         {
@@ -37,7 +37,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/data/tweaks.png"
+              "url": "https://tqm-mos.com/info/nomoresmallapps/screenshots/1.png"
             }
           ]
         },
@@ -69,12 +69,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.1.0",
+          "text": "2.0.1",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 16.x",
+          "text": "11.0 - 14.x",
           "title": "Hỗ trợ"
         },
         {
@@ -135,13 +135,13 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.1.0",
+          "title": "2.0.1",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Phiên bản đầu tiên</li>\n</ul>",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
           "useRawFormat": true
         }
       ]
