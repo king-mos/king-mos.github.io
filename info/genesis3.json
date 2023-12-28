@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:12pt;\"> Thay đổi giọng nói của bạn trong các cuộc gọi!</p>\n<p style=\"font-size:10pt;\">VoiceChanger X cho phép bạn có một số niềm vui với các cuộc gọi điện thoại của bạn bằng cách điều chỉnh độ cao giọng nói của bạn. Nhiều giọng nói vui nhộn để bạn có thể đùa với người thân.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Genesis 3 là phiên bản kế thừa được chờ đợi từ lâu của Genesis 2. Hầu hết các tính năng từ phiên bản trước đã được triển khai lại và các tính năng mới liên tục được phát triển.</p>",
           "useRawFormat": true
         },
         {
@@ -37,15 +37,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/voicechangerx/screenshots/1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/voicechangerx/screenshots/2.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/voicechangerx/screenshots/3.png"
+              "url": "https://tqm-mos.com/info/genesis3/screenshots/1.png"
             }
           ]
         },
@@ -72,17 +64,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "Elias Limneos",
+          "text": "Tr1Fecta & Kennyroo",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "2.4-10",
+          "text": "1.4",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "11.0 - 17.0",
+          "text": "15.0 - 15.7.6",
           "title": "Hỗ trợ"
         },
         {
@@ -143,7 +135,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "2.4-10",
+          "title": "1.4",
           "useBoldText": true,
           "useBottomMargin": false
         },
