@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> BioProtect có lẽ là một trong những cải tiến bảo mật phổ biến nhất từng được phát minh cho nền tảng jailbreak. BioProtext XS về cơ bản là phiên bản tương thích iOS 12 của tweak bảo mật rất phổ biến mà hầu hết đều biết và yêu thích (các phiên bản cho iOS thấp hơn có tên là BioProtectX,…). Nó đã được tối ưu hóa hoàn toàn để hoạt động với cả Touch ID và Face ID.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Gói phụ trợ tinh chỉnh.</p>",
           "useRawFormat": true
         },
         {
@@ -37,19 +37,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/bioprotectxs/screenshots/1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/bioprotectxs/screenshots/2.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/bioprotectxs/screenshots/3.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/bioprotectxs/screenshots/4.png"
+              "url": "https://tqm-mos.com/info/data/tweaks.png"
             }
           ]
         },
@@ -81,12 +69,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "4.6-26",
+          "text": "0.1-1",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "12.0 - 16.x",
+          "text": "11.0 - 16.x",
           "title": "Hỗ trợ"
         },
         {
@@ -101,13 +89,13 @@
           "spacing": 16
         },
         {
-          "action": "https://www.facebook.com/tranquangminh2202",
+          "action": "https://www.facebook.com/quangminhios",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Facebook (@quangminh)",
           "openExternal": true
         },
         {
-          "action": "https://twitter.com/aminhdz",
+          "action": "https://twitter.com/ahminhdz",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Twitter (@tqmmos)",
           "openExternal": true
@@ -147,7 +135,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "4.6-26",
+          "title": "0.1-1",
           "useBoldText": true,
           "useBottomMargin": false
         },
