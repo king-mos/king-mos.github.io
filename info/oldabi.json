@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Màn hình khóa thời gian và ngày kiểu iOS 16.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Gói phụ trợ tinh chỉnh.</p>",
           "useRawFormat": true
         },
         {
@@ -37,19 +37,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/aim/screenshots/1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/aim/screenshots/2.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/aim/screenshots/3.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-mos.com/info/aim/screenshots/4.png"
+              "url": "https://tqm-mos.com/info/data/tweaks.png"
             }
           ]
         },
@@ -76,17 +64,17 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "alimaulana",
+          "text": "Evelyn",
           "title": "Tác giả"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2.9",
+          "text": "0.3.2",
           "title": "Phiên bản"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "13.0 - 16.x",
+          "text": "15.0 - 16.x",
           "title": "Hỗ trợ"
         },
         {
@@ -101,13 +89,13 @@
           "spacing": 16
         },
         {
-          "action": "https://www.facebook.com/tranquangminh2202",
+          "action": "https://www.facebook.com/quangminhios",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Facebook (@quangminh)",
           "openExternal": true
         },
         {
-          "action": "https://twitter.com/aminhdz",
+          "action": "https://twitter.com/ahminhdz",
           "class": "DepictionTableButtonView",
           "title": "Theo dõi Twitter (@tqmmos)",
           "openExternal": true
@@ -147,7 +135,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "1.2.9",
+          "title": "0.3.2",
           "useBoldText": true,
           "useBottomMargin": false
         },
