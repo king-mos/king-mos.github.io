@@ -18,8 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:13pt;\"> Laetus cung cấp những cách gần như không giới hạn để tùy chỉnh bàn phím iOS.</p>\n<p style=\"font-size:12pt;\">Laetus bao gồm một số loại chủ đề khác nhau</p>\n<p style=\"font-size:10pt;\">Màu sắc: Đơn giản là màu nền, sắc thái và văn bản</p>\n<p style=\"font-size:10pt;\">Hình ảnh: Chọn hình ảnh từ thư viện ảnh của bạn để hiển thị ở chế độ nền<br>
-Chủ đề hình ảnh: Chủ đề được xây dựng bằng hình ảnh và thiết lập cho các kích thước màn hình khác nhau. Cung cấp trải nghiệm theo chủ đề bàn phím hoàn chỉnh.</p>\n<p style=\"font-size:10pt;\">Chủ đề HTML: Các chủ đề được xây dựng bằng HTML/Javascript/CSS cung cấp chủ đề bàn phím tương tác và thậm chí là hoạt hình</p>\n<p style=\"font-size:10pt;\">Chủ đề tiện ích: Các chủ đề được xây dựng bằng Objective-c mang lại trải nghiệm theo chủ đề hoàn chỉnh có thể được cung cấp bởi các nhà phát triển iOS.</p>",
+          "markdown": "<p style=\"font-size:13pt;\"> Laetus cung cấp những cách gần như không giới hạn để tùy chỉnh bàn phím iOS.</p>\n<p style=\"font-size:12pt;\">Laetus bao gồm một số loại chủ đề khác nhau</p>\n<p style=\"font-size:10pt;\">Màu sắc: Đơn giản là màu nền, sắc thái và văn bản</p>\n<p style=\"font-size:10pt;\">Hình ảnh: Chọn hình ảnh từ thư viện ảnh của bạn để hiển thị ở chế độ nền</p>\n<p style=\"font-size:10pt;\">Chủ đề hình ảnh: Chủ đề được xây dựng bằng hình ảnh và thiết lập cho các kích thước màn hình khác nhau. Cung cấp trải nghiệm theo chủ đề bàn phím hoàn chỉnh.</p>\n<p style=\"font-size:10pt;\">Chủ đề HTML: Các chủ đề được xây dựng bằng HTML/Javascript/CSS cung cấp chủ đề bàn phím tương tác và thậm chí là hoạt hình</p>\n<p style=\"font-size:10pt;\">Chủ đề tiện ích: Các chủ đề được xây dựng bằng Objective-c mang lại trải nghiệm theo chủ đề hoàn chỉnh có thể được cung cấp bởi các nhà phát triển iOS.</p>",
           "useRawFormat": true
         },
         {

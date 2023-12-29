@@ -18,7 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Hiển thị "xin chào." nhãn có phông chữ đẹp mắt sau khi khởi động lại, rất giống với phông chữ Apple sử dụng.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Hiển thị (xin chào). nhãn có phông chữ đẹp mắt sau khi khởi động lại, rất giống với phông chữ Apple sử dụng.</p>",
           "useRawFormat": true
         },
         {

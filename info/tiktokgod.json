@@ -18,8 +18,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:12pt;\"> Tinh chỉnh TikTok Gold</p>\n<p style=\"font-size:11pt;\">
-Đặc trưng:</p>\n<p style=\"font-size:10pt;\"> - Ẩn quảng cáo</p>\n<p style=\"font-size:10pt;\"> - Tải xuống không có hình mờ</p>\n<p style=\"font-size:10pt;\"> - Tự động cuộn sang video tiếp theo</p>\n<p style=\"font-size:10pt;\"> - Thay đổi vùng (có thể không hoạt động với iPad và một số thiết bị)</p>\n<p style=\"font-size:10pt;\"> - Hiển thị thanh tiến trình (để tua đi hoặc tua lại video)</p>\n<p style=\"font-size:10pt;\"> - Có thể ẩn UI (xem video toàn màn hình)</p>\n<p style=\"font-size:10pt;\"> - Hỗ trợ iOS 12 - 14 & phiên bản TikTok mới nhất.</p>",
+          "markdown": "<p style=\"font-size:12pt;\"> Tinh chỉnh TikTok Gold</p>\n<p style=\"font-size:10pt;\">Ẩn quảng cáo</p>\n<p style=\"font-size:10pt;\">Tải xuống không có hình mờ</p>\n<p style=\"font-size:10pt;\">Tự động cuộn sang video tiếp theo</p>\n<p style=\"font-size:10pt;\">Thay đổi vùng (có thể không hoạt động với iPad và một số thiết bị)</p>\n<p style=\"font-size:10pt;\">Hiển thị thanh tiến trình (để tua đi hoặc tua lại video)</p>\n<p style=\"font-size:10pt;\">Có thể ẩn UI (xem video toàn màn hình).</p>",
           "useRawFormat": true
         },
         {
