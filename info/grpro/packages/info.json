@@ -5,7 +5,7 @@
   "version": "",
   "dependency": "N/A",
   "minOSVersion": "7.0",
-  "maxOSVersion": "100",
+  "maxOSVersion": "17.0",
   "otheriOS": "untested",
   "description": "",
   "changelog": {
