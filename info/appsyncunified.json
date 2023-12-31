@@ -69,7 +69,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "112.0",
+          "text": "113.0",
           "title": "Phiên bản"
         },
         {
@@ -135,7 +135,7 @@
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "112.0",
+          "title": "113.0",
           "useBoldText": true,
           "useBottomMargin": false
         },
