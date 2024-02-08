@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.messenger3</string>
+				<string>com.tqm.messenger4</string>
 				<key>bundle-version</key>
 				<string>386.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>Ông Cễnh</string>
 				<key>title</key>
-				<string>Messenger3 TQM</string>
+				<string>Messenger4 TQM</string>
 			</dict>
 		</dict>
 	</array>
